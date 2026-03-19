@@ -1,0 +1,55 @@
+{
+  "metaphor": "traditional complementary colors",
+  "train": [
+    {
+      "input": [
+        [
+          "1"
+        ]
+      ],
+      "output": [
+        [
+          "7"
+        ]
+      ]
+    },
+    {
+      "input": [
+        [
+          "2"
+        ]
+      ],
+      "output": [
+        [
+          "3"
+        ]
+      ]
+    },
+    {
+      "input": [
+        [
+          "4"
+        ]
+      ],
+      "output": [
+        [
+          "6"
+        ]
+      ]
+    }
+  ],
+  "test": [
+    {
+      "input": [
+        [
+          "3"
+        ]
+      ],
+      "output": [
+        [
+          "2"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+# Database (248MB+, distribute separately)
+marc.db
+marc.db-shm
+marc.db-wal
+
+# External datasets (clone separately)
+data/arc/
+data/larc/
+
+# Generated HTML artifacts (regenerate with inspector.py)
+inspect.html
+compare.html
+report.html
+
+# Draft papers
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+
+# Claude Code settings (local)
+.claude/
