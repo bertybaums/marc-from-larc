@@ -8,13 +8,15 @@ Automated pipeline for generating and verifying MARC (Metaphor Abstraction and R
 ├── config.yaml          # Model configs (MindRouter endpoint), experiment settings
 ├── schema.sql           # SQLite schema: tasks, baseline_trials, task_subsets,
 │                        #   figurative_descriptions, figurative_trials
-├── marc.db              # SQLite database (WAL mode)
+├── marc.db              # SQLite database (WAL mode) -- text pipeline
+├── marc_vision.db       # SQLite database (WAL mode) -- vision pipeline
 │
 ├── db.py                # Database helpers (init, upsert, query)
 ├── models.py            # LLM API abstraction (OpenAI-compat, Anthropic), two-pass calls
-├── grids.py             # Grid rendering (text <-> 2D array <-> PNG), response parsing, comparison
-├── prompts.py           # Prompt templates for all conditions (text + vision variants)
+├── grids.py             # Grid rendering (text <-> 2D array <-> PNG), composite images, comparison
+├── prompts.py           # Prompt templates for all conditions (text + per-grid vision variants)
 ├── tasks.py             # LARC/ARC task loading, description selection, resolve_arc_path()
+├── utils.py             # Shared utilities (find_model_config, load_arc, serialize_prompt, etc.)
 │
 ├── collect.py           # Phase 1: Baseline 3-condition testing (examples_only, language_only, both)
 ├── subset.py            # Phase 2: Classify tasks + find minimum examples
@@ -24,6 +26,13 @@ Automated pipeline for generating and verifying MARC (Metaphor Abstraction and R
 ├── analyze.py           # Phase 5: Generate report.html with Plotly charts
 ├── inspector.py         # HTML inspector (tabbed variants) + comparison view
 ├── load_marc_submissions.py  # Load 177 hand-crafted MARC submissions into the pipeline
+│
+├── v_prompts.py         # Vision prompt builders (composite PNG + text clues)
+├── v_setup.py           # Bootstrap marc_vision.db from marc.db
+├── v_collect.py         # Vision baseline collection (composite images)
+├── v_subset.py          # Vision subset classification (binary: sufficient/insufficient)
+├── v_test_figurative.py # Vision figurative testing + MARC verification
+├── vision_report.md     # Vision pipeline results report
 │
 ├── inspect.html         # Main inspector output (tabbed variant view)
 ├── compare.html         # Variant comparison output (per-model, stacked reasoning traces)
@@ -170,13 +179,60 @@ python inspector.py compare --output compare.html   # Variant comparison view
 - **MindRouter** (University of Idaho HPC): OpenAI-compatible endpoint at `https://mindrouter.uidaho.edu/v1`
 - API key env var: `MINDROUTER_API_KEY`
 - Reasoning models (gpt-oss-*) put output in `reasoning_content` with null `content`
-- Vision model (Qwen3-VL-32B) frequently unavailable (502 errors)
+- Vision models: qwen3-vl-32b and qwen3.5-400b (both accept image content blocks)
 
 **IMPORTANT -- Parallelism:** MindRouter easily handles 8+ concurrent API calls. Always use `--concurrency 8` (or higher) when running batch jobs. Sequential execution wastes hours. Both `test_figurative.py` and `generate_alternatives.py` have the ThreadPoolExecutor pattern built in.
 
-**IMPORTANT -- Extraction model:** When testing smaller models (20b, etc.), always use 120b for the extraction pass. This is handled automatically by `_get_extraction_model_config()` in `test_figurative.py` and `generate_alternatives.py`. If you add a new model, make sure this function returns the 120b config for it.
+**IMPORTANT -- Extraction model:** When testing smaller models (20b, etc.), always use 120b for the extraction pass. This is handled automatically by `get_extraction_model_config()` in `utils.py`. If you add a new model, make sure this function returns the 120b config for it.
 
-## Current State (2026-03-19, final review complete)
+## Vision Pipeline
+
+Tests the MARC hypothesis with vision models by sending a single composite PNG (all grids in a vertical stack) instead of text-rendered grids. Figurative clues remain as prompt text.
+
+**Key differences from text pipeline:**
+- Single composite image instead of multiple per-grid image blocks
+- Separate database (`marc_vision.db`), same schema, bootstrapped from `marc.db`
+- `v_prompts.py` builds prompts with `compose_puzzle_image()` from `grids.py`
+- Default `--concurrency 4` (vision models are slower)
+
+**Running the vision pipeline:**
+```bash
+python v_setup.py                                     # Bootstrap marc_vision.db
+python v_collect.py --model qwen3-vl-32b --source larc --concurrency 4
+python v_collect.py --model qwen3-vl-32b --source marc-submission --concurrency 4
+python v_subset.py --model qwen3-vl-32b
+python v_test_figurative.py test --model qwen3-vl-32b --generator-model claude-agent --source larc --concurrency 4
+python v_test_figurative.py test --model qwen3-vl-32b --generator-model human --source marc-submission --concurrency 4
+python v_test_figurative.py verify-marc --model qwen3-vl-32b --generator-model claude-agent --source larc
+python v_test_figurative.py verify-marc --model qwen3-vl-32b --generator-model human --source marc-submission
+```
+
+**Error recovery:** Network drops cause errored trials. To retry:
+```bash
+python -c "from db import init_db; c=init_db('marc_vision.db'); c.execute('UPDATE <table> SET error=NULL WHERE error IS NOT NULL AND response_text IS NULL'); c.commit()"
+# Then re-run the same command -- it skips completed trials
+```
+
+## Current State (2026-03-21)
+
+### Completed
+- All pipeline code implemented and tested
+- 400 LARC tasks + 177 MARC submissions loaded
+- Baseline collection complete for gpt-oss-20b, gpt-oss-120b, qwen3.5-400b (LARC)
+- Baseline examples_only complete for both 120b and 20b (MARC submissions)
+- Subset classification complete for all 3 models (LARC)
+- 93 figurative descriptions generated by Claude Agent (LARC)
+- MARC verification (original clues):
+  - gpt-oss-120b: 45 valid LARC + 19 valid submissions = **64 total**
+  - qwen3.5-400b: 15 valid LARC
+- **250 alternative figurative clues** generated across 60+ source domains (3 rounds)
+  - 53/64 puzzles have >= 2 valid alternatives (120b); 11 "metaphorically narrow" hard cases
+- Alternative and original figurative testing complete for both 120b and 20b
+  - All 20b trials use 120b for extraction pass (reduced parse errors from ~45% to ~18%)
+- Interactive inspector with tabbed variants (inspect.html) + comparison view (compare.html)
+  - Per-model MARC status dots on variant tabs
+  - Per-model trial results (prediction grids + reasoning traces) in variant panels
+  - MARC Property demonstration per model
 
 ### Completed
 - All pipeline code implemented and tested
@@ -206,7 +262,28 @@ python inspector.py compare --output compare.html   # Variant comparison view
 
 Note: 20b solves 12 of the 64 tasks with examples_only (tasks 55, 59, 146, 236, 247, 248, 265, 333, 379, 380, 1132, 1134), so those tasks don't have the MARC property for 20b at all. All 20b trials use 120b for extraction pass.
 
+### Vision Pipeline Results (2026-03-21)
+
+Vision baseline (examples_only with composite images):
+
+| Model | LARC | MARC sub |
+|-------|:----:|:--------:|
+| qwen3-vl-32b | 4/400 (1.0%) | 4/177 (2.3%) |
+| qwen3.5-400b | 10/400 (2.5%) | 6/177 (3.4%) |
+
+Vision MARC property verification:
+
+| Model | Source | Valid MARC |
+|-------|--------|-----------|
+| qwen3-vl-32b | LARC | 2 (tasks 166, 390) |
+| qwen3-vl-32b | MARC sub | 0 |
+| qwen3.5-400b | LARC | 5 (tasks 166, 333, 346, 354, 390) |
+| qwen3.5-400b | MARC sub | 4 (tasks 1048, 1074, 1134, 1158) |
+| **Total unique** | | **9** |
+
+Cross-pipeline: 5 tasks overlap with text pipeline (166, 333, 346, 354, 1134). 4 are vision-only (390, 1048, 1074, 1158). See `vision_report.md` for detailed analysis.
+
 ### Pending
-- Qwen3-VL-32B vision model testing (needs MindRouter stabilization)
+- Vision alternative clue testing (alternatives already in marc_vision.db, untested)
 - Phase 2b min-examples search (subset.py find-min-examples)
 - Final cross-model report regeneration with analyze.py

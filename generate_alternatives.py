@@ -37,38 +37,12 @@ from db import (
 from grids import parse_response_grid, compare_grids
 from models import call_llm_two_pass
 from prompts import build_prompt, build_extraction_messages
-from tasks import load_config, resolve_arc_path
-
-
-def _find_model_config(config, model_name):
-    for m in config["models"]:
-        if m["name"] == model_name:
-            return m
-    raise ValueError(f"Model '{model_name}' not found in config")
-
-
-def _load_arc(config, arc_name):
-    arc_path = resolve_arc_path(config, arc_name)
-    if arc_path is None:
-        raise FileNotFoundError(f"ARC task file not found for {arc_name}")
-    with open(arc_path) as f:
-        return json.load(f)
-
-
-def _serialize_prompt(messages):
-    cleaned = []
-    for msg in messages:
-        if isinstance(msg.get("content"), list):
-            parts = []
-            for block in msg["content"]:
-                if block.get("type") == "image_url":
-                    parts.append({"type": "image_url", "image_url": {"url": "[base64 image]"}})
-                else:
-                    parts.append(block)
-            cleaned.append({**msg, "content": parts})
-        else:
-            cleaned.append(msg)
-    return json.dumps(cleaned, ensure_ascii=False)
+from tasks import load_config
+from utils import (
+    find_model_config as _find_model_config,
+    load_arc as _load_arc,
+    serialize_prompt as _serialize_prompt,
+)
 
 
 def _get_marc_verified_tasks(conn, model_name, generator_model):
@@ -229,14 +203,7 @@ def insert_batch(db_path, json_file):
     conn.close()
 
 
-def _get_extraction_model_config(config, model_name):
-    """Get gpt-oss-120b config for extraction if subject model is different."""
-    if model_name == "gpt-oss-120b":
-        return None
-    for m in config["models"]:
-        if m["name"] == "gpt-oss-120b":
-            return m
-    return None
+from utils import get_extraction_model_config as _get_extraction_model_config
 
 
 def _run_single_trial(model_config, config, db_path, fig_id, tid, k, variant, model_name):

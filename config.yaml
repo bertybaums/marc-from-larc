@@ -28,7 +28,7 @@ models:
     temperature: 0.0
     max_tokens: 4096
     timeout: 300.0
-    modality: text
+    modality: vision
 
   - name: qwen3-vl-32b
     provider: openai_compat
