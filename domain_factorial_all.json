@@ -1,0 +1,2186 @@
+[
+  {
+    "task_id": 13,
+    "generator_model": "claude-agent",
+    "metaphor": "A general singles out the soldier whose uniform bears a different insignia and promotes only that unit.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 13,
+    "generator_model": "claude-agent",
+    "metaphor": "One organism in the colony displays a mutation, and only that variant is cultured forward.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 13,
+    "generator_model": "claude-agent",
+    "metaphor": "Among identically seasoned dishes, the chef plates only the one that has been marinated in a different brine.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 13,
+    "generator_model": "claude-agent",
+    "metaphor": "Every instrument plays the same phrase except one, and only that dissonant voice is transcribed into the final score.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 13,
+    "generator_model": "claude-agent",
+    "metaphor": "Three beds grow the same flower, one grows something foreign \u2014 that bed alone is harvested and replanted as the whole garden.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 13,
+    "generator_model": "claude-agent",
+    "metaphor": "Three buoys mark the same hazard; the one painted a different color is the one the navigator charts a course toward.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 14,
+    "generator_model": "claude-agent",
+    "metaphor": "Each spice triggers a different reaction in the dish \u2014 one forces the heat to spread to neighboring ingredients, another draws moisture from above and below, while mild spices sit quietly unchanged.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 14,
+    "generator_model": "claude-agent",
+    "metaphor": "Certain plants spread runners at their four diagonal corners while others send up stalks directly overhead and below, and some simply root in place.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 14,
+    "generator_model": "claude-agent",
+    "metaphor": "Each landmark on a chart has its own protocol \u2014 one commands waypoints at the four oblique bearings, another demands marks directly north and south, while others leave the chart unmarked.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 18,
+    "generator_model": "claude-agent",
+    "metaphor": "A single scout report is copied to all four command posts, and every position named in the report gets marked with flanking sentinels at its diagonals.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 18,
+    "generator_model": "claude-agent",
+    "metaphor": "A recipe is duplicated across four kitchen stations, and every ingredient is surrounded by a garnish at each of its diagonal corners.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 18,
+    "generator_model": "claude-agent",
+    "metaphor": "Each plant in the garden is cloned into four plots, then cross-pollinators are placed touching each clone at every diagonal angle.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 37,
+    "generator_model": "claude-agent",
+    "metaphor": "Platoons are counted by their paired banners on the field, and one position on the victory board is filled for each matched pair.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 37,
+    "generator_model": "claude-agent",
+    "metaphor": "Each mating pair of organisms tallied in the sample earns one mark on the population register.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 37,
+    "generator_model": "claude-agent",
+    "metaphor": "Each planting bed that completes a full square earns one peg on the growing-season tally board.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 37,
+    "generator_model": "claude-agent",
+    "metaphor": "Each confirmed anchorage fills one berth on the harbor log, read from port to starboard.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 55,
+    "generator_model": "claude-agent",
+    "metaphor": "Each troop formation has a designated battle-color: the cross formation signals one flag, the three-corner wedge another, the four-corner flanking maneuver a third, and the column-and-rail stance a fourth.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 55,
+    "generator_model": "claude-agent",
+    "metaphor": "Each arrangement of cells in the organism's tissue corresponds to a different developmental fate \u2014 the symmetrical cross becomes one tissue type, the clustered corner another, and so on.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 55,
+    "generator_model": "claude-agent",
+    "metaphor": "The way ingredients are arranged in the pan determines the finished dish: cross-shaped for one sauce, packed into a corner for another, framing the edge for yet another.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 55,
+    "generator_model": "claude-agent",
+    "metaphor": "Each fingering pattern on the keyboard names a different chord \u2014 the same notes arranged differently resolve into entirely different harmonies.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 55,
+    "generator_model": "claude-agent",
+    "metaphor": "Each planting pattern in the bed calls for a different companion flower: a cross layout for one bloom, a corner cluster for another, a border ring for a third.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 55,
+    "generator_model": "claude-agent",
+    "metaphor": "The shape of the star cluster tells the navigator which port to steer toward \u2014 each recognized formation corresponds to a different harbor.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 59,
+    "generator_model": "claude-agent",
+    "metaphor": "Two opposing armies advance until each holds exactly half the territory, then the front is sealed.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 59,
+    "generator_model": "claude-agent",
+    "metaphor": "Two competing species colonize from opposite ends of a habitat until each occupies an equal portion of the range.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 59,
+    "generator_model": "claude-agent",
+    "metaphor": "Two melodic phrases grow outward from opposite ends of the staff until they meet in the center, filling every measure.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 59,
+    "generator_model": "claude-agent",
+    "metaphor": "Two hedge varieties are trained inward from either end of the garden until each fills its half of the border.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 59,
+    "generator_model": "claude-agent",
+    "metaphor": "Two currents push opposing flotillas inward along a channel until each fleet claims an equal stretch of the waterway.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 98,
+    "generator_model": "claude-agent",
+    "metaphor": "A battle map with one blank sector is completed by pressing the remaining troops into the open ground until no position is unoccupied.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 98,
+    "generator_model": "claude-agent",
+    "metaphor": "A tissue sample with one missing cell type is diagnosed only after the absent cell fills its expected slot.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 98,
+    "generator_model": "claude-agent",
+    "metaphor": "A recipe missing its final ingredient is obvious the moment the empty measure is filled and the dish becomes whole.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 98,
+    "generator_model": "claude-agent",
+    "metaphor": "A score with one silent bar is resolved when the missing phrase is played and the composition becomes continuous.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 98,
+    "generator_model": "claude-agent",
+    "metaphor": "A chart with one unplotted coordinate snaps into clarity the moment the final waypoint is entered and the route closes.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 103,
+    "generator_model": "claude-agent",
+    "metaphor": "A commander reads the banner placement in a small camp to know where to station two reinforced battalions in the expanded theater, their flanks touching at exactly one corner.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 103,
+    "generator_model": "claude-agent",
+    "metaphor": "A small tissue diagram indicates which quadrant each organ will occupy when the embryo triples in scale, two structures meeting at a single corner boundary.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 103,
+    "generator_model": "claude-agent",
+    "metaphor": "A thumbnail sketch of a plating arrangement tells the chef where to position the two enlarged components on the full-sized plate, touching corner to corner.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 103,
+    "generator_model": "claude-agent",
+    "metaphor": "A small score excerpt marks which registers two instruments will occupy when the piece expands to full orchestration, their ranges meeting at a single shared note.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 103,
+    "generator_model": "claude-agent",
+    "metaphor": "A miniature plot plan shows the gardener exactly which corners of the expanded garden each pair of beds will anchor, their borders kissing at one point.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 103,
+    "generator_model": "claude-agent",
+    "metaphor": "A small-scale chart excerpt tells the navigator where two expanded patrol zones will be positioned in the full sea area, sharing only a single corner of their boundaries.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 108,
+    "generator_model": "claude-agent",
+    "metaphor": "Remove the dividing wall from a fortified compound and stamp its emblem into every quadrant, mirroring the original insignia across the axes.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 108,
+    "generator_model": "claude-agent",
+    "metaphor": "Strip the spice rack divider and repeat the signature flavor profile in every quarter of the pan, flipping it left-right and top-bottom across each partition.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 108,
+    "generator_model": "claude-agent",
+    "metaphor": "The opening motif from the first measure is transposed and inverted into each remaining movement, the dividing bar line erased so the theme rings out in all four voices.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 108,
+    "generator_model": "claude-agent",
+    "metaphor": "Pull out the central dividing trellis and train the corner plant's pattern across each quadrant of the bed, reflected along both the horizontal and vertical axes.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 108,
+    "generator_model": "claude-agent",
+    "metaphor": "Remove the meridian boundary from the chart and replicate the landmark's silhouette into each quadrant of the sea area, flipped across both compass axes.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 110,
+    "generator_model": "claude-agent",
+    "metaphor": "Intelligence isolates the one sector of the battlefield containing the compromised position, then hands off a clean version of that sector with the compromised post removed.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 110,
+    "generator_model": "claude-agent",
+    "metaphor": "The chorus section containing the missed note is excerpted and replayed cleanly, the error edited out of the passage.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 110,
+    "generator_model": "claude-agent",
+    "metaphor": "The afflicted corner of the garden is cordoned off and the healthy growth pattern within it is reproduced in a fresh bed, without the diseased specimen.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 110,
+    "generator_model": "claude-agent",
+    "metaphor": "The navigator marks the region of the chart that contains the hazard, then redraws that patch on the working copy with the hazard omitted.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 113,
+    "generator_model": "claude-agent",
+    "metaphor": "Anchor cells take root and replicate outward into colonies, while the border segments split into paired offspring.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 113,
+    "generator_model": "claude-agent",
+    "metaphor": "Each corner note swells into a chord block while the edge beats double into two-count rests, the silent measures blackened out.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 113,
+    "generator_model": "claude-agent",
+    "metaphor": "The lighthouse expands its signal into a wide sweep while the buoy markers pair off along the channel and dark water closes in at every corner.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 146,
+    "generator_model": "claude-agent",
+    "metaphor": "Isolated scouts hold their ground, but any regiment that masses together must change its colors to signal the advance.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 146,
+    "generator_model": "claude-agent",
+    "metaphor": "A single herb left alone stays fresh and green, but the moment enough stems bundle together in the pot, they blanch pale blue.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 146,
+    "generator_model": "claude-agent",
+    "metaphor": "The solo seedling stays green all season, but once the patch grows thick enough to touch itself, the whole stand turns cool with shade.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 146,
+    "generator_model": "claude-agent",
+    "metaphor": "A lone vessel at sea flies its original flag, but a convoy large enough to be counted changes its pennant to mark the fleet.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 159,
+    "generator_model": "claude-agent",
+    "metaphor": "Encircled positions are fortified into strongholds while open lines stay exposed exactly as they were.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 159,
+    "generator_model": "claude-agent",
+    "metaphor": "Open rings are sutured shut, their gaps sealed while the closed loops around them are left untouched.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 159,
+    "generator_model": "claude-agent",
+    "metaphor": "Open molds get their missing corners filled in before baking, while the ones already sealed go into the oven as-is.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 159,
+    "generator_model": "claude-agent",
+    "metaphor": "The unresolved chord gets its missing note added to complete the ring, while the already-closed phrase plays on unchanged.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 163,
+    "generator_model": "claude-agent",
+    "metaphor": "The battalion is assembled, then a second force is marshaled in perfect formation beside it, flipped to face the opposite direction.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 163,
+    "generator_model": "claude-agent",
+    "metaphor": "The original dish is plated, then an identical portion is folded out alongside it \u2014 the same recipe, flipped onto the other side of the plate.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 163,
+    "generator_model": "claude-agent",
+    "metaphor": "The melody plays through once and then repeats in retrograde, unfolding the same passage in reverse to double the phrase.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 163,
+    "generator_model": "claude-agent",
+    "metaphor": "The seedbed is laid out, then the same plot is turned and replanted as its own mirror image right alongside it.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 163,
+    "generator_model": "claude-agent",
+    "metaphor": "The chart is drawn and then the same coastline is traced in reverse beside it, doubling the map from a single shore.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 166,
+    "generator_model": "claude-agent",
+    "metaphor": "The commanding officer counts the factions in the field and pins the unit's rank insignia in the formation that matches the tally.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 166,
+    "generator_model": "claude-agent",
+    "metaphor": "The organism counts how many distinct tissues it carries and arranges its marker cells in the pattern that encodes that census.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 166,
+    "generator_model": "claude-agent",
+    "metaphor": "The cook counts the distinct flavors on the board and lays out the grey garnish in a formation that declares the recipe's complexity.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 166,
+    "generator_model": "claude-agent",
+    "metaphor": "The gardener counts how many varieties are planted and stakes the grey markers in a row or diagonal that records that number for the season.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 166,
+    "generator_model": "claude-agent",
+    "metaphor": "The navigator reads how many stars are visible and marks the chart with waypoints arranged in the pattern that matches that count.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 176,
+    "generator_model": "claude-agent",
+    "metaphor": "The unit is extracted from the surrounding territory, then doubled and deployed facing itself across an invisible line.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 176,
+    "generator_model": "claude-agent",
+    "metaphor": "The organism is isolated from its environment, then allowed to express its latent symmetry by replicating into its own mirror image.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 176,
+    "generator_model": "claude-agent",
+    "metaphor": "The cook trims the dish to its essential shape, then presents two identical portions facing each other on a clean plate.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 176,
+    "generator_model": "claude-agent",
+    "metaphor": "The motif is lifted from the noise and played back against itself \u2014 the same phrase mirrored into a duet.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 176,
+    "generator_model": "claude-agent",
+    "metaphor": "The cutting is taken from the overgrowth, trimmed clean, then pressed against its own reflection to reveal its native symmetry.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 176,
+    "generator_model": "claude-agent",
+    "metaphor": "The landmark is isolated on the chart, then its twin is plotted opposite it across the bearing line to triangulate a position.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 179,
+    "generator_model": "claude-agent",
+    "metaphor": "Four patrol maps are laid over one another in order of rank, each unit's markings showing through the black gaps left by those above.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 179,
+    "generator_model": "claude-agent",
+    "metaphor": "Four tissue samples are layered on the slide in sequence, each stained region visible through the unstained gaps of every layer above it.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 179,
+    "generator_model": "claude-agent",
+    "metaphor": "Four flavor layers are folded into the dish one at a time, each earlier layer tasted only through the gaps where the newer ones fall away.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 179,
+    "generator_model": "claude-agent",
+    "metaphor": "Four instrumental tracks are mixed in order, each earlier voice audible only in the silences the louder tracks leave behind.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 179,
+    "generator_model": "claude-agent",
+    "metaphor": "Four seasonal plantings are layered over the same bed in succession, each earlier color showing only through the bare patches the new growth has not yet covered.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 179,
+    "generator_model": "claude-agent",
+    "metaphor": "Four navigational overlays are stacked in order of priority, each earlier chart visible only through the blank stretches the higher-priority markings leave open.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 182,
+    "generator_model": "claude-agent",
+    "metaphor": "The four border garrisons each claim their section of the neutral zone, and the territory where their jurisdictions converge becomes the contested center.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 182,
+    "generator_model": "claude-agent",
+    "metaphor": "Four parent strains each contribute their markers, and the hybrid region at the center expresses the pattern that only their combination could produce.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 182,
+    "generator_model": "claude-agent",
+    "metaphor": "Four corner ingredients are each worked inward, and the center of the dish takes on the flavor that only their meeting could create.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 182,
+    "generator_model": "claude-agent",
+    "metaphor": "Four voices enter from the corners of the score and converge, and the passage they create together at the center belongs to none of them alone.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 182,
+    "generator_model": "claude-agent",
+    "metaphor": "Four hedgerows grow inward from each corner, and the garden that takes shape at their crossing is determined by what each brings toward the middle.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 182,
+    "generator_model": "claude-agent",
+    "metaphor": "Four bearings are taken from the corners of the chart and run inward, and the fix that emerges at their crossing is where they all agree.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 189,
+    "generator_model": "claude-agent",
+    "metaphor": "The cell extends its axon diagonally until it touches the dense nucleus from which its lineage first branched.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 189,
+    "generator_model": "claude-agent",
+    "metaphor": "The sauce trails its drizzle line across the plate all the way back to the ladle it poured from, color marking the whole path.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 189,
+    "generator_model": "claude-agent",
+    "metaphor": "The note slides in a glissando along the diagonal until it resolves into the root chord waiting at the edge of the staff.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 194,
+    "generator_model": "claude-agent",
+    "metaphor": "The regiment's battle order is replicated inside each sub-unit, every squad arrayed in the same formation as the army that contains it.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 194,
+    "generator_model": "claude-agent",
+    "metaphor": "The organism's tissue structure repeats at every scale \u2014 each cell cluster organized in the same pattern as the organ it composes.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 194,
+    "generator_model": "claude-agent",
+    "metaphor": "The recipe is prepared whole, then each component section is filled with a miniature version of the entire dish, flavor nested inside flavor.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 194,
+    "generator_model": "claude-agent",
+    "metaphor": "The theme is stated in full, then each section within it is scored as a smaller rendering of the whole movement that surrounds it.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 194,
+    "generator_model": "claude-agent",
+    "metaphor": "The garden's layout is mapped out, then every bed within it is planted in the same arrangement as the garden as a whole.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 194,
+    "generator_model": "claude-agent",
+    "metaphor": "The chart shows the full archipelago, and inside each island the same chart reappears at smaller scale, every harbor a map of the sea around it.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 198,
+    "generator_model": "claude-agent",
+    "metaphor": "A mortar round lands and its shockwave fans outward in alternating arcs, skipping every other trench line.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 198,
+    "generator_model": "claude-agent",
+    "metaphor": "A stone dropped into a pond triggers a bioluminescent pulse that glows in alternating rings outward from where the creature sank.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 198,
+    "generator_model": "claude-agent",
+    "metaphor": "A chef presses a stamp into dough and the impression bleeds outward in stripes, skipping a row between each mark.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 198,
+    "generator_model": "claude-agent",
+    "metaphor": "A bulb planted in the soil sends runners upward that emerge through the earth in every other row, leaving bare earth between each shoot.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 198,
+    "generator_model": "claude-agent",
+    "metaphor": "A lighthouse keeper drops anchor and the signal flags billow outward in alternating lanes across the harbor, one lane lit and one lane dark.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 205,
+    "generator_model": "claude-agent",
+    "metaphor": "A spy parachutes behind enemy lines and sets up camp at the exact center of enemy formation, surrounded on all sides by their own colors.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 205,
+    "generator_model": "claude-agent",
+    "metaphor": "A parasite burrows into a host cell and unfurls its full structure centered perfectly within the cell wall.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 205,
+    "generator_model": "claude-agent",
+    "metaphor": "A molded cake is unmolded onto a serving plate and the decorative pattern blooms outward exactly centered on where you set it down.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 205,
+    "generator_model": "claude-agent",
+    "metaphor": "A jazz soloist drops into the middle of the ensemble and the whole arrangement reshapes itself around that new center note.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 205,
+    "generator_model": "claude-agent",
+    "metaphor": "A transplanted seedling carries its root ball to a new bed and establishes itself as the center around which the garden border is arranged.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 205,
+    "generator_model": "claude-agent",
+    "metaphor": "A waypoint marker is planted on a gray shoal and the full chart of the surrounding waters is redrawn centered on that fixed point.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 211,
+    "generator_model": "claude-agent",
+    "metaphor": "Red troops advance until they hit the fortified wall; blue troops push forward until they reach the sea.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 211,
+    "generator_model": "claude-agent",
+    "metaphor": "Red sauce spreads across the pan until it hits the divider; blue glaze runs freely to the edge of the tray.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 211,
+    "generator_model": "claude-agent",
+    "metaphor": "A red vessel follows the channel until the breakwater stops it; a blue vessel runs the full reach to open ocean.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 219,
+    "generator_model": "claude-agent",
+    "metaphor": "Each unit is assigned its regiment's color, and the perimeter guard falls into formation around the core troops.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 219,
+    "generator_model": "claude-agent",
+    "metaphor": "Each organism secretes a chemical halo that attracts only its species-specific partner molecules to cluster around it.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 219,
+    "generator_model": "claude-agent",
+    "metaphor": "Each note in the chord draws its own harmonic overtones into a ring around it, coloring the silence on every side.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 219,
+    "generator_model": "claude-agent",
+    "metaphor": "Every plant has its companion species that naturally grows up around it, forming a protective ring of the right color.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 219,
+    "generator_model": "claude-agent",
+    "metaphor": "Each buoy is ringed by the designated marker flags of its shipping lane, the prescribed border closing in around it.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 225,
+    "generator_model": "claude-agent",
+    "metaphor": "After the battle smoke clears, only the flags still flying mark what was worth holding.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 225,
+    "generator_model": "claude-agent",
+    "metaphor": "A species survey strips away the background noise until only the viable organisms remain visible against the habitat.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 225,
+    "generator_model": "claude-agent",
+    "metaphor": "Reducing a sauce concentrates the flavor until only the essential substance remains in the pan.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 225,
+    "generator_model": "claude-agent",
+    "metaphor": "A musician strips away the accompaniment until only the melodic line that carries the piece survives.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 225,
+    "generator_model": "claude-agent",
+    "metaphor": "Weeding a bed reveals which plants earned their place by removing everything that was merely filling space.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 225,
+    "generator_model": "claude-agent",
+    "metaphor": "A navigator burns off the fog layer to read which landmarks are fixed and which were always illusions of distance.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 226,
+    "generator_model": "claude-agent",
+    "metaphor": "Two platoons march through the same territory and where neither stepped, the ground bleeds red from the pressure of their combined absence.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 226,
+    "generator_model": "claude-agent",
+    "metaphor": "Two batters are poured into the same mold and wherever neither batter reaches, the exposed pan scorches red.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 226,
+    "generator_model": "claude-agent",
+    "metaphor": "Two melodies are played simultaneously and wherever both fall silent at once, a dissonant red note rings through the gap.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 226,
+    "generator_model": "claude-agent",
+    "metaphor": "A navigator overlays two route charts and wherever neither route passes, the sea runs red on the combined map.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 227,
+    "generator_model": "claude-agent",
+    "metaphor": "A cell divides and each corner organelle migrates outward through the membrane wall to anchor the new boundary.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 227,
+    "generator_model": "claude-agent",
+    "metaphor": "A pastry chef folds the dough and each corner filling bursts outward through the crust to mark the exterior edge.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 227,
+    "generator_model": "claude-agent",
+    "metaphor": "A chord resolves and each tension note leaps outward to land on the exterior position that finally releases it.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 227,
+    "generator_model": "claude-agent",
+    "metaphor": "Corner grafts take root and push through the border hedge to establish themselves on the outside of the garden wall.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 227,
+    "generator_model": "claude-agent",
+    "metaphor": "Interior buoys break their moorings and drift at forty-five degrees to resettle just outside the channel boundaries they once marked.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 236,
+    "generator_model": "claude-agent",
+    "metaphor": "A spore lands on nutrient medium and branches outward in a fixed geometric pattern until the colony reaches its full extent.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 236,
+    "generator_model": "claude-agent",
+    "metaphor": "A starter culture dropped into dough activates and expands in a predictable radial pattern through the loaf.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 236,
+    "generator_model": "claude-agent",
+    "metaphor": "A single struck tuning fork sets a whole rack of forks vibrating in a predetermined branching pattern outward from the first.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 236,
+    "generator_model": "claude-agent",
+    "metaphor": "A bulb sends up a single shoot that forks according to its encoded plan, filling the bed in the shape its genetics demand.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 238,
+    "generator_model": "claude-agent",
+    "metaphor": "A battalion's casualty report tallies surviving units \u2014 the complex formation reduces to a simple count of those still standing.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 238,
+    "generator_model": "claude-agent",
+    "metaphor": "A chef counts how many whole portions a complex recipe yields \u2014 all that preparation collapses into a single number of servings.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 238,
+    "generator_model": "claude-agent",
+    "metaphor": "A gardener surveys the plot and records not the arrangement but only the total number of plants of one kind.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 238,
+    "generator_model": "claude-agent",
+    "metaphor": "A harbor master counts the vessels in the bay \u2014 all their positions and headings reduce to a single census number.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 241,
+    "generator_model": "claude-agent",
+    "metaphor": "A scout studies the terrain on three sides and predicts what must occupy the blind quadrant to complete the tactical picture.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 241,
+    "generator_model": "claude-agent",
+    "metaphor": "A naturalist observes three quadrants of the petri dish and infers what growth pattern must fill the obscured corner.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 241,
+    "generator_model": "claude-agent",
+    "metaphor": "A baker sees three sections of the decorated cake and pipes the missing corner to match the pattern the other three demand.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 241,
+    "generator_model": "claude-agent",
+    "metaphor": "A groundskeeper examines three borders of the formal garden and plants the hidden corner to complete the symmetry the design requires.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 241,
+    "generator_model": "claude-agent",
+    "metaphor": "A navigator reads three known landmarks and triangulates the feature that must anchor the unseen fourth corner of the map.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 243,
+    "generator_model": "claude-agent",
+    "metaphor": "A general strips the battlefield map of its grid lines and keeps only the troop formations, flipping them to face the other flank.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 243,
+    "generator_model": "claude-agent",
+    "metaphor": "A biologist removes the cage wire and photographs only the animal inside, then flips the image to compare its mirror twin.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 243,
+    "generator_model": "claude-agent",
+    "metaphor": "A baker lifts the cookie from the baking rack, leaving the grid marks behind, then presses it into dough on the opposite side to stamp its reflection.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 243,
+    "generator_model": "claude-agent",
+    "metaphor": "A conductor erases the bar lines from the score and flips the remaining melody so it plays backwards across the page.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 243,
+    "generator_model": "claude-agent",
+    "metaphor": "A navigator discards the chart's latitude grid and charts only the coastline, then mirrors it to plot the shore on the opposite bank.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 245,
+    "generator_model": "claude-agent",
+    "metaphor": "A cell divides and the daughter inherits the nucleus but not the membrane color.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 245,
+    "generator_model": "claude-agent",
+    "metaphor": "The mold stays the same but the baker pours in a different batter each time, changing the flavor while the shape remains.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 245,
+    "generator_model": "claude-agent",
+    "metaphor": "The melody is transposed to a new key, but every note relationship and rhythm stays exactly as written.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 245,
+    "generator_model": "claude-agent",
+    "metaphor": "The topiary is trimmed into a new species, but the wire frame underneath \u2014 the hidden skeleton \u2014 never moves.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 245,
+    "generator_model": "claude-agent",
+    "metaphor": "The ship sails the same route but under a new flag, its hull repainted at port while its keel holds its course.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 246,
+    "generator_model": "claude-agent",
+    "metaphor": "Soldiers are sorted by regiment size and ranked tallest-to-shortest in columns, with the largest regiment commanding the most rows.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 246,
+    "generator_model": "claude-agent",
+    "metaphor": "A biologist sorts specimens by population count and stacks the most abundant species into the tallest columns in the display case.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 246,
+    "generator_model": "claude-agent",
+    "metaphor": "The chef groups ingredients by how many dishes call for them and builds vertical towers of the most-used ones, tallest stack wins the counter space.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 246,
+    "generator_model": "claude-agent",
+    "metaphor": "A music librarian ranks sheet music by how many players need each part and stacks the most-needed scores into the tallest piles on the shelf.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 246,
+    "generator_model": "claude-agent",
+    "metaphor": "The gardener plants the most abundant flower variety in the tallest column of beds, arranging all types by frequency until only the dominant color stands tallest.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 246,
+    "generator_model": "claude-agent",
+    "metaphor": "The harbor master moors vessels by fleet size, stacking the busiest shipping line's ships into the longest pier, column by column.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 247,
+    "generator_model": "claude-agent",
+    "metaphor": "An artillery shell arcs from one trench wall to the other, each bounce carrying it one step higher up the battlefield until it clears the ridge.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 247,
+    "generator_model": "claude-agent",
+    "metaphor": "A migrating bird zigzags between cliff faces, gaining altitude with every deflection until it clears the canyon rim.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 247,
+    "generator_model": "claude-agent",
+    "metaphor": "A pastry cutter zigzags across the dough, bouncing wall to wall, climbing steadily toward the far edge of the board.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 247,
+    "generator_model": "claude-agent",
+    "metaphor": "A jazz improvisation bounces between the high and low registers, each phrase a step higher than the last, climbing toward the final note.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 247,
+    "generator_model": "claude-agent",
+    "metaphor": "A seed dropped from a hillside plant bounces off one slope, then the other, working steadily uphill until it clears the top of the garden wall.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 247,
+    "generator_model": "claude-agent",
+    "metaphor": "A vessel tacks back and forth between two headlands, each leg carrying it one degree higher in latitude until it breaks into open water.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 248,
+    "generator_model": "claude-agent",
+    "metaphor": "The regiment marches in formation and a second identical battalion forms up beside it, doubling the line without changing a single rank.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 248,
+    "generator_model": "claude-agent",
+    "metaphor": "The chef plates the dish, then plates it again on the same long platter, the second portion indistinguishable from the first.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 248,
+    "generator_model": "claude-agent",
+    "metaphor": "The composer copies the phrase exactly into the next measure, producing an echo that is not a variation but a perfect repeat in unison.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 248,
+    "generator_model": "claude-agent",
+    "metaphor": "The gardener lays out a second identical bed beside the first, every plant in the same position, doubling the garden's width without changing its design.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 248,
+    "generator_model": "claude-agent",
+    "metaphor": "The cartographer prints the same map twice side by side on one sheet, doubling the chart's width to cover twice the sea.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 256,
+    "generator_model": "claude-agent",
+    "metaphor": "Four species compete for the same habitat and the first to arrive claims its territory; later arrivals fill only the unclaimed ground.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 256,
+    "generator_model": "claude-agent",
+    "metaphor": "Four musicians each add their part to the score, and the rule is never to write over a note already placed, so only empty measures get filled.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 256,
+    "generator_model": "claude-agent",
+    "metaphor": "Four gardeners plant their seeds in the same bed in succession; each one avoids the spots already occupied, filling only bare soil.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 256,
+    "generator_model": "claude-agent",
+    "metaphor": "Four charts are overlaid on the same sea; each navigator's markings appear only in waters that earlier charts left blank.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 265,
+    "generator_model": "claude-agent",
+    "metaphor": "The scout locates the enemy's headquarters in the far corner and radios only its position back to command, ignoring all other movement.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 265,
+    "generator_model": "claude-agent",
+    "metaphor": "Among the whole colony, the biologist isolates the single marked specimen at the lower right and records only that one in the report.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 265,
+    "generator_model": "claude-agent",
+    "metaphor": "The chef tastes every dish but plates only the one that passed \u2014 the single square that earned its color \u2014 discarding everything else.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 265,
+    "generator_model": "claude-agent",
+    "metaphor": "The conductor listens to the whole ensemble but isolates the final note in the last measure \u2014 that single sound becomes the whole piece.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 280,
+    "generator_model": "claude-agent",
+    "metaphor": "The pastry shell is rolled outward from the pan toward a raisin on the counter, stretching until it covers the raisin entirely, then filled in the center.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 280,
+    "generator_model": "claude-agent",
+    "metaphor": "The chorus expands outward bar by bar toward a single sustained note far away, the outer harmony growing until it envelopes that note, then the inner melody fills the space.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 280,
+    "generator_model": "claude-agent",
+    "metaphor": "The hedge row is trimmed and extended outward until it surrounds a lone flower at the garden's edge, the border closing around it before the interior is planted.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 280,
+    "generator_model": "claude-agent",
+    "metaphor": "The harbor wall is extended outward across the bay toward a distant buoy, surrounding it until the anchorage grows to claim it, then the sheltered water inside is charted.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 297,
+    "generator_model": "claude-agent",
+    "metaphor": "Three nested organisms shed their skins in a cycle: the innermost inherits the middle's coloring, the middle takes the outer's, and the outermost wears what the innermost discarded.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 297,
+    "generator_model": "claude-agent",
+    "metaphor": "Three nested pots rotate sauces: the smallest takes the middle pot's sauce, the middle takes the large pot's, and the large gets the original sauce from the smallest.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 297,
+    "generator_model": "claude-agent",
+    "metaphor": "Three nested musical motifs trade keys in a cycle: the inner theme takes the middle theme's key, the middle takes the outer's, and the outer plays the inner's original key.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 297,
+    "generator_model": "claude-agent",
+    "metaphor": "Three concentric garden rings rotate their plantings: the innermost circle gets the middle ring's flowers, the middle gets the outer ring's, and the outer ring receives the inner's original variety.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 297,
+    "generator_model": "claude-agent",
+    "metaphor": "Three nested sea lanes exchange their signal flags in rotation: the innermost lane flies the middle lane's colors, the middle takes the outer's, and the outer hoists the flags the innermost started with.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 298,
+    "generator_model": "claude-agent",
+    "metaphor": "Two advancing lines of troops extend their march to the edge of the map, and where the columns cross, a gold medal marks the contested ground.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 298,
+    "generator_model": "claude-agent",
+    "metaphor": "Two migration corridors stretch across the full habitat until they intersect, and at that crossing point a hybrid territory forms, distinct from either route.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 298,
+    "generator_model": "claude-agent",
+    "metaphor": "The cook draws a red sauce across the plate and a blue glaze down it, extending each to the rim, and where they meet a caramelized gold puddle blooms.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 298,
+    "generator_model": "claude-agent",
+    "metaphor": "Two musical phrases extend across the full score in perpendicular directions, and the beat where they land together produces a dissonant third color of sound.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 298,
+    "generator_model": "claude-agent",
+    "metaphor": "Two trellises are stretched to the fence line \u2014 one running east, one south \u2014 and where they cross, a golden climbing rose marks the junction.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 298,
+    "generator_model": "claude-agent",
+    "metaphor": "Two shipping lanes are extended to the edge of the chart, one running east and one south, and where they intersect a navigational beacon is planted to warn all traffic.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 309,
+    "generator_model": "claude-agent",
+    "metaphor": "A siege wall's perimeter determines how wide the garrison must spread to hold the territory within.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 309,
+    "generator_model": "claude-agent",
+    "metaphor": "The membrane's thickness sets the volume of the cell it must enclose.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 309,
+    "generator_model": "claude-agent",
+    "metaphor": "The crust's edge length decides how wide to roll the filling it will wrap.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 309,
+    "generator_model": "claude-agent",
+    "metaphor": "The number of beats in the refrain tells you how long the verse must run.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 309,
+    "generator_model": "claude-agent",
+    "metaphor": "Count the fence posts around the bed and you know how many plants to fill it with.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 309,
+    "generator_model": "claude-agent",
+    "metaphor": "The length of the harbor's breakwater measures the anchorage it must shelter.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 315,
+    "generator_model": "claude-agent",
+    "metaphor": "Scouts spotted at random across the field are called back in rank order, filling the formation row by row.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 315,
+    "generator_model": "claude-agent",
+    "metaphor": "Spores drifting at random are swept into a migration path that doubles back on itself at every edge.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 315,
+    "generator_model": "claude-agent",
+    "metaphor": "Scattered spice jars are gathered and arranged on shelves that snake back and forth from top to bottom.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 315,
+    "generator_model": "claude-agent",
+    "metaphor": "A ship picks up buoys scattered across open water, logging each in the order found and stowing them in a boustrophedon log.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 317,
+    "generator_model": "claude-agent",
+    "metaphor": "Two separate tissue samples are laid over each other on the microscope slide, and any living cell in either appears as the same fluorescent signal.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 317,
+    "generator_model": "claude-agent",
+    "metaphor": "Two soloists play different passages simultaneously, and any note struck by either rings out as the same timbre.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 317,
+    "generator_model": "claude-agent",
+    "metaphor": "Two garden beds are superimposed in memory, and any planted square in either is counted as a single growing patch.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 317,
+    "generator_model": "claude-agent",
+    "metaphor": "Two separate sea charts are aligned and overlaid, and any marked shoal on either becomes a single hazard on the merged chart.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 319,
+    "generator_model": "claude-agent",
+    "metaphor": "A roasting skewer is thrust into hot coals from below: the submerged end chars dark while the upper tip stays raw.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 319,
+    "generator_model": "claude-agent",
+    "metaphor": "A crescendo builds from silence at the bottom; the lower notes resolve to calm while the upper register still surges.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 319,
+    "generator_model": "claude-agent",
+    "metaphor": "Tall stalks are watered at the root; the saturated base turns a different hue while the dry crown holds its color.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 319,
+    "generator_model": "claude-agent",
+    "metaphor": "A mast rising from cold Arctic water is frosted below the waterline but sun-bleached above it.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 333,
+    "generator_model": "claude-agent",
+    "metaphor": "Each regimental color flown dictates which formation the troops must take on the parade ground.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 333,
+    "generator_model": "claude-agent",
+    "metaphor": "Each species of seed triggers a different branching pattern in the root it will grow.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 333,
+    "generator_model": "claude-agent",
+    "metaphor": "Each key signature the composer writes calls for a different arrangement of rests on the staff.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 333,
+    "generator_model": "claude-agent",
+    "metaphor": "Each variety of bloom commands a different pruning pattern for the bush that bears it.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 343,
+    "generator_model": "claude-agent",
+    "metaphor": "When a scouting unit makes contact with an enemy patrol, the scouts are pinned in place and the enemy combatants are neutralized.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 343,
+    "generator_model": "claude-agent",
+    "metaphor": "Where a predator cell brushes a prey cell, the predator is encased in a hard shell and the prey dissolves away.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 343,
+    "generator_model": "claude-agent",
+    "metaphor": "Where a hot sauce touches a cream sauce at their shared edge, the cream sets firm and the hot ingredient burns off.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 343,
+    "generator_model": "claude-agent",
+    "metaphor": "When a dissonant note resolves against its neighbor, the resolving note freezes in place and the tension note vanishes from the score.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 343,
+    "generator_model": "claude-agent",
+    "metaphor": "Where an invasive weed touches a cultivated plant along a shared border, the cultivated plant hardens and the weed is pulled.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 343,
+    "generator_model": "claude-agent",
+    "metaphor": "Where a storm current meets a calm current side by side, the calm water solidifies into a barrier and the storm current dissipates.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 346,
+    "generator_model": "claude-agent",
+    "metaphor": "Two flanking units converge on the same ground and every soldier from either side, friend or foe, is reissued the same uniform.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 346,
+    "generator_model": "claude-agent",
+    "metaphor": "Two different species colonize the same tissue, and wherever either takes hold the cell is relabeled as the same strain.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 346,
+    "generator_model": "claude-agent",
+    "metaphor": "Two batters are poured into the same mold and wherever either has touched the pan, the finished cake shows the same golden crust.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 346,
+    "generator_model": "claude-agent",
+    "metaphor": "Two ships lay overlapping wakes and every patch of disturbed water, from whichever hull, foams the same white.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 354,
+    "generator_model": "claude-agent",
+    "metaphor": "The battalion that shelters the most civilians behind its lines is the one awarded the territory.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 354,
+    "generator_model": "claude-agent",
+    "metaphor": "Whichever host organism harbors the largest colony of symbiont is the one the symbiont ultimately claims.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 354,
+    "generator_model": "claude-agent",
+    "metaphor": "The chord that contains the most common tones with the melody is the one the ear resolves to.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 354,
+    "generator_model": "claude-agent",
+    "metaphor": "Whichever bed has the most shared root space with the prized specimen becomes the designated growing zone.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 354,
+    "generator_model": "claude-agent",
+    "metaphor": "The port that the greatest number of vessels have sheltered in becomes the designated home harbor.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 357,
+    "generator_model": "claude-agent",
+    "metaphor": "Interrupted veins in a leaf grow outward until they reach every edge of the blade, trading pigment as they branch.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 357,
+    "generator_model": "claude-agent",
+    "metaphor": "Unfinished stripes of glaze are drawn to every rim of the dish, alternating between two colors as each band continues.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 357,
+    "generator_model": "claude-agent",
+    "metaphor": "Each melodic fragment is extended until it fills the entire measure, swapping between two voices as it goes.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 357,
+    "generator_model": "claude-agent",
+    "metaphor": "Partial bearing lines are extended until they cross every boundary of the chart, alternating between two headings as they run.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 359,
+    "generator_model": "claude-agent",
+    "metaphor": "Two opposing battle lines advance toward each other's territory until they collapse into a single unified front.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 359,
+    "generator_model": "claude-agent",
+    "metaphor": "A passage is played forward and then its mirror image is played on top of it, collapsing both into a single half-length phrase.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 359,
+    "generator_model": "claude-agent",
+    "metaphor": "A trellis is folded along its center rod so one half of the vine presses flat against the other.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 359,
+    "generator_model": "claude-agent",
+    "metaphor": "A nautical chart is folded along the meridian so the eastern soundings press down onto the western ones.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 364,
+    "generator_model": "claude-agent",
+    "metaphor": "The dish with the most saffron threads is the one the chef plates and serves.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 364,
+    "generator_model": "claude-agent",
+    "metaphor": "The instrument carrying the most high notes is the one the conductor pulls forward as the solo voice.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 364,
+    "generator_model": "claude-agent",
+    "metaphor": "The bed bursting with the most blooms is the one the gardener tends, trimming it to stand alone.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 364,
+    "generator_model": "claude-agent",
+    "metaphor": "The harbor with the most signal fires is the one the captain steers toward, leaving all others behind.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 379,
+    "generator_model": "claude-agent",
+    "metaphor": "A regiment pivots ninety degrees to the left at the sergeant's command, every soldier turning in place.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 379,
+    "generator_model": "claude-agent",
+    "metaphor": "A sleeping organism rolls onto its left side, its internal organs shifting but remaining in their relative positions.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 379,
+    "generator_model": "claude-agent",
+    "metaphor": "The baker turns the dough a quarter-turn counterclockwise before pressing down, preserving every swirl inside.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 379,
+    "generator_model": "claude-agent",
+    "metaphor": "The sheet music is rotated on the stand so what was written across the top now reads down the left margin.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 379,
+    "generator_model": "claude-agent",
+    "metaphor": "The gardener swings the trellis panel a quarter-turn to the left so the vines now climb in a new direction.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 380,
+    "generator_model": "claude-agent",
+    "metaphor": "Enemy outposts on opposing flanks are connected by a line of fortifications built across the no-man's-land between them.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 380,
+    "generator_model": "claude-agent",
+    "metaphor": "The cook stretches a strip of dough between two anchored points to seal the gap across the pan.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 380,
+    "generator_model": "claude-agent",
+    "metaphor": "A runner of creeping thyme is trained between two rooted plants to fill the bare ground stretching between them.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 380,
+    "generator_model": "claude-agent",
+    "metaphor": "The sailor strings a line between two fixed points on opposite rails to cross the open deck between them.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1002,
+    "generator_model": "claude-agent",
+    "metaphor": "The sentry eats what provisions remain before abandoning the post, taking nothing else into the unknown.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1002,
+    "generator_model": "claude-agent",
+    "metaphor": "The cell consumes its stored reserves before detaching from the colony and migrating outward.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1002,
+    "generator_model": "claude-agent",
+    "metaphor": "Before leaving the kitchen, the cook finishes the last open tin so nothing is left half-used on the shelf.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1002,
+    "generator_model": "claude-agent",
+    "metaphor": "The musician plays out the final measure stored in memory before the melody departs to a new key.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1002,
+    "generator_model": "claude-agent",
+    "metaphor": "The seedling draws down the last nutrients in its seed coat before pushing its root out into open soil.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1002,
+    "generator_model": "claude-agent",
+    "metaphor": "The captain burns the last barrel of fresh water before casting off from port into the open sea.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1017,
+    "generator_model": "claude-agent",
+    "metaphor": "When the lead voice drops out, the highest remaining part absorbs the lowest while the middle voice goes silent.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1017,
+    "generator_model": "claude-agent",
+    "metaphor": "When the tallest plant is removed, the most vigorous remaining shoot spreads to cover the smallest, while the middle plant stops growing.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1017,
+    "generator_model": "claude-agent",
+    "metaphor": "When the flagship is lost, the lead escort takes command of the trailing vessel while the mid-convoy ship goes dark.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1029,
+    "generator_model": "claude-agent",
+    "metaphor": "The organism stretches toward the chemical signal it cannot yet detect with its receptors, drawn by an internal map.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1029,
+    "generator_model": "claude-agent",
+    "metaphor": "The chef seasons toward a flavor hidden behind the curtain of other ingredients, guided only by what should be there.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1029,
+    "generator_model": "claude-agent",
+    "metaphor": "The melody reaches toward a note that is never played but whose absence shapes every phrase around it.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1029,
+    "generator_model": "claude-agent",
+    "metaphor": "The helmsman steers toward a landmark obscured by fog, plotting a course to where the shore must be.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1055,
+    "generator_model": "claude-agent",
+    "metaphor": "The regiment advances upward through the terrain, each line pushing further toward the high ground.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1055,
+    "generator_model": "claude-agent",
+    "metaphor": "The root tip grows upward against gravity, extending toward the light one cell length at a time.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1055,
+    "generator_model": "claude-agent",
+    "metaphor": "The chorus rises through successive octaves, each voice climbing until it reaches the highest register it can sustain.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1055,
+    "generator_model": "claude-agent",
+    "metaphor": "The ship climbs toward the top of the chart, leaving the southern latitudes behind one degree at a time.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1074,
+    "generator_model": "claude-agent",
+    "metaphor": "The fog of battle resolves into a clean tactical picture as overlapping reports are reconciled into a single certain map.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1074,
+    "generator_model": "claude-agent",
+    "metaphor": "The tangled chemical signals in the developing embryo settle into a clean positional code as each cell commits to its fate.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1074,
+    "generator_model": "claude-agent",
+    "metaphor": "The sauce reduces from a murky liquid into a glossy, concentrated clarity as heat drives off the excess.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1074,
+    "generator_model": "claude-agent",
+    "metaphor": "The improvised noise of the rehearsal room resolves into the clean, determined theme as the ensemble finds unison.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1074,
+    "generator_model": "claude-agent",
+    "metaphor": "The overgrown tangle of competing shoots is pruned back until only the strong, clearly directed growth remains.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1074,
+    "generator_model": "claude-agent",
+    "metaphor": "The scatter of estimated positions collapses into a precise fix once enough landmarks are brought into alignment.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1075,
+    "generator_model": "claude-agent",
+    "metaphor": "One soldier is always left to hold the perimeter while the others rotate back to camp.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1075,
+    "generator_model": "claude-agent",
+    "metaphor": "The cook who stays behind to clean the kitchen never gets to eat with the rest of the crew.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1075,
+    "generator_model": "claude-agent",
+    "metaphor": "One instrument holds a long, steady note through the rests while every other voice takes its break.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1075,
+    "generator_model": "claude-agent",
+    "metaphor": "The plant left nearest the gate is always the one that gets pruned last, waiting while the others are tended.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1075,
+    "generator_model": "claude-agent",
+    "metaphor": "One vessel remains anchored at the entrance to the harbor while all the others sail freely in and out.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1078,
+    "generator_model": "claude-agent",
+    "metaphor": "Two platoons merge at a checkpoint \u2014 their combined strength counted precisely before the advance continues.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1078,
+    "generator_model": "claude-agent",
+    "metaphor": "Two root systems intertwine underground and the combined mass of both determines how far the new shoot can grow.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1078,
+    "generator_model": "claude-agent",
+    "metaphor": "Two garden beds are consolidated and their total yield counted before deciding how many rows the new plot needs.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1078,
+    "generator_model": "claude-agent",
+    "metaphor": "Two currents meet and their combined flow determines which channel the navigator must take to proceed.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1079,
+    "generator_model": "claude-agent",
+    "metaphor": "A cell culture in a petri dish thrives wherever the antibiotic coverage runs thin, and the colony that escapes saturation blooms a different color.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1079,
+    "generator_model": "claude-agent",
+    "metaphor": "When the broth runs low and most ingredients are already seasoned, the one unsalted morsel gets a final pinch to mark it done.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1079,
+    "generator_model": "claude-agent",
+    "metaphor": "Every string on the fretboard is dampened except the one left ringing free, and the open note it sustains is the one you hear.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1103,
+    "generator_model": "claude-agent",
+    "metaphor": "The general tallies how many infantry lines advance east-to-west versus how many artillery columns press north-to-south across the front.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1103,
+    "generator_model": "claude-agent",
+    "metaphor": "A taxonomist counts how many species are sorted into horizontal family rows and how many into vertical genus columns in the classification table.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1103,
+    "generator_model": "claude-agent",
+    "metaphor": "The pastry chef layers horizontal sheets of phyllo in one color and pipes vertical cream stripes in another across the tray.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1103,
+    "generator_model": "claude-agent",
+    "metaphor": "Measure the lateral furrows plowed across the field in one hue and the vertical irrigation channels cut down its length in another.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1103,
+    "generator_model": "claude-agent",
+    "metaphor": "A navigator marks the latitude parallels running east-west across the chart in orange and the longitude meridians running north-south in red.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1117,
+    "generator_model": "claude-agent",
+    "metaphor": "A general's influence grows more diffuse the farther the regiment deploys from headquarters, and the territory it must hold expands in proportion.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1117,
+    "generator_model": "claude-agent",
+    "metaphor": "A spore lands farther from the parent fungus and, with more room to colonize, spreads into a wider mycelial mat.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1117,
+    "generator_model": "claude-agent",
+    "metaphor": "A note played farthest from the tonic key resonates into a longer, fuller chord that fills the surrounding silence.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1117,
+    "generator_model": "claude-agent",
+    "metaphor": "The ship that sails farthest from the home port must map a larger safe zone around itself before it dares to anchor.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1121,
+    "generator_model": "claude-agent",
+    "metaphor": "The organism that migrates farthest from the herd settles in the territory where predator pressure is lowest.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1121,
+    "generator_model": "claude-agent",
+    "metaphor": "A chef places the delicate ingredient in the corner of the pan where the heat is most even and no other flavors crowd it.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1121,
+    "generator_model": "claude-agent",
+    "metaphor": "The musician who chooses a rest position picks the measure with the fewest neighboring instruments competing for the same register.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1121,
+    "generator_model": "claude-agent",
+    "metaphor": "A harbor pilot steers toward the berth that is furthest from the other vessels and has the clearest approach on all sides.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1123,
+    "generator_model": "claude-agent",
+    "metaphor": "Soldiers advance only to the position where the fewest enemy units can draw a line of fire from any direction.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1123,
+    "generator_model": "claude-agent",
+    "metaphor": "The prey animal rests in the clearing that lies farthest from every predator's territory at once.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1123,
+    "generator_model": "claude-agent",
+    "metaphor": "The cook stores the fragile souffl\u00e9 in the spot in the oven where it is shielded from every draft and temperature spike.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1123,
+    "generator_model": "claude-agent",
+    "metaphor": "The soloist steps to the position on stage that is equidistant from every distracting noise source in the hall.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1123,
+    "generator_model": "claude-agent",
+    "metaphor": "The gardener transplants the seedling to the bed that lies farthest from all the frost pockets and standing water.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1125,
+    "generator_model": "claude-agent",
+    "metaphor": "Prey animals that fall within the predator's line of sight go rigid; those sheltered behind the ridge move freely to new ground.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1125,
+    "generator_model": "claude-agent",
+    "metaphor": "Ingredients visible to the chef's eye are plated as-is; those tucked behind the range hood are moved and dressed before serving.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1125,
+    "generator_model": "claude-agent",
+    "metaphor": "Musicians in the conductor's direct sightline hold their position; those hidden in the back row shift seats between movements.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1125,
+    "generator_model": "claude-agent",
+    "metaphor": "A vessel in the lighthouse's beam holds its course exactly; one beyond the light's reach adjusts its heading and only its new position is logged.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1126,
+    "generator_model": "claude-agent",
+    "metaphor": "When the apex predator absorbs the smallest territory, the middle niche silently goes extinct and vanishes from the ecosystem entirely.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1126,
+    "generator_model": "claude-agent",
+    "metaphor": "The dominant flavor absorbs and overwrites the mildest note, while the middle ingredient dissolves undetected into the background of the dish.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1126,
+    "generator_model": "claude-agent",
+    "metaphor": "The flagship port annexes the smallest harbor's routes, while the mid-sized waystation is quietly removed from the charts without a trace.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1131,
+    "generator_model": "claude-agent",
+    "metaphor": "Scouts caught in open terrain sprint toward the nearest thicket of allied forces, disappearing from their exposed position and reappearing inside the perimeter.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1131,
+    "generator_model": "claude-agent",
+    "metaphor": "Exposed organisms flee toward the colony cluster, vanishing from open ground and reappearing sheltered within its interior.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1131,
+    "generator_model": "claude-agent",
+    "metaphor": "Loose ingredients tumble toward the bowl's cluster and settle inside it, leaving the counter bare where they once sat.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1131,
+    "generator_model": "claude-agent",
+    "metaphor": "Stray notes drift toward the phrase cluster and resolve inside its boundary, leaving silence in the exposed measure where they first appeared.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1131,
+    "generator_model": "claude-agent",
+    "metaphor": "Exposed seedlings migrate toward the dense hedge, taking root within its canopy and leaving the open bed empty.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1131,
+    "generator_model": "claude-agent",
+    "metaphor": "A vessel in unprotected waters makes for the nearest archipelago, disappearing from the open sea and anchoring inside the sheltered chain.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1132,
+    "generator_model": "claude-agent",
+    "metaphor": "A flanking maneuver rotates each unit one position clockwise around the perimeter, and every soldier inherits the designation of the one who just vacated that post.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1132,
+    "generator_model": "claude-agent",
+    "metaphor": "Cells in a tissue cycle through developmental stages, each inheriting the identity of its predecessor as the wave of differentiation rotates around the center.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1132,
+    "generator_model": "claude-agent",
+    "metaphor": "A conveyor belt of dishes rotates one step and each plate takes on the garnish of the one that just passed before it.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1132,
+    "generator_model": "claude-agent",
+    "metaphor": "Musicians rotate chairs one seat around the semicircle and each player inherits the part-name of the seat they've just taken.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1132,
+    "generator_model": "claude-agent",
+    "metaphor": "Companion plants shift one position around the bed in the seasonal rotation, each bed taking on the crop identity of the one before it.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1134,
+    "generator_model": "claude-agent",
+    "metaphor": "A beachhead established at center sends successive waves of troops outward in a checkerboard advance, each wave filling positions left open by the pattern before it.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1134,
+    "generator_model": "claude-agent",
+    "metaphor": "A mother cell divides and its daughter cells spread outward in an alternating lattice, the original nucleus anchoring the center of the growing colony.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1134,
+    "generator_model": "claude-agent",
+    "metaphor": "Spice is scattered from the center of the cutting board in a diagonal cross-hatch, each new pinch landing in the gap left by the last.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1134,
+    "generator_model": "claude-agent",
+    "metaphor": "A rhythmic motif planted at the center of the score propagates outward beat by beat, each repetition filling in the alternating rests until the pattern is complete.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1134,
+    "generator_model": "claude-agent",
+    "metaphor": "A single planted bulb at the bed's heart sends runners outward in a diagonal grid, each new shoot rooting into the next empty cell of the pattern.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1134,
+    "generator_model": "claude-agent",
+    "metaphor": "A lighthouse at the center pulses its beam in rotating arcs, each sweep marking a new waypoint in the alternating grid of safe anchorages expanding around it.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1135,
+    "generator_model": "claude-agent",
+    "metaphor": "The besieged garrison probes every section of the surrounding wall until they find the single unguarded breach and pour out through it.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1135,
+    "generator_model": "claude-agent",
+    "metaphor": "Steam trapped inside a sealed vessel builds and builds until it finds the one loose seam and escapes through that single vent.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1135,
+    "generator_model": "claude-agent",
+    "metaphor": "A melody circling inside a minor-key loop finds the single enharmonic pivot and slips out into open harmonic space.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1135,
+    "generator_model": "claude-agent",
+    "metaphor": "A seedling pushes against its pot in every direction until it discovers the one drainage hole and threads a root through to freedom.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1147,
+    "generator_model": "claude-agent",
+    "metaphor": "Where two platoons compete for a crossroads, the one whose reinforcements already hold the adjacent post claims the contested ground.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1147,
+    "generator_model": "claude-agent",
+    "metaphor": "The plant that has already taken root in both neighboring beds is the one that gets to fill the bare patch at their shared corner.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1147,
+    "generator_model": "claude-agent",
+    "metaphor": "At an unmarked fork, the navigator assigns it to whichever heading already owns the other waypoints along that bearing.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1153,
+    "generator_model": "claude-agent",
+    "metaphor": "A sergeant orders each squad to step forward in turn; when a cease-fire signal halts the advance, only the remaining troops stay on the line.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1153,
+    "generator_model": "claude-agent",
+    "metaphor": "Cells replicate in layers until a stop codon is read; the surviving proteins from each completed segment fold into the final chain.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1153,
+    "generator_model": "claude-agent",
+    "metaphor": "Measures of music repeat until a double barline stops the phrase; only the notes that survive the cut are copied into the final score.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1153,
+    "generator_model": "claude-agent",
+    "metaphor": "Seedlings are thinned row by row until the gardener plants a marker stake; everything still standing past the stake goes into the ground.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1153,
+    "generator_model": "claude-agent",
+    "metaphor": "A convoy advances through checkpoints and stops when it hits a closed gate; the vehicles that cleared the gate are logged as arrived.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1154,
+    "generator_model": "claude-agent",
+    "metaphor": "A patrol traces the enemy's route across the terrain and reports back only the size and shape of the unit at the end of the trail.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1154,
+    "generator_model": "claude-agent",
+    "metaphor": "A researcher follows the nerve fiber's branching path through the tissue and records only the receptor cluster it terminates in.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1154,
+    "generator_model": "claude-agent",
+    "metaphor": "The gardener traces the climbing vine along every twist of the trellis and notes only the bloom waiting at the tip.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1156,
+    "generator_model": "claude-agent",
+    "metaphor": "The field is cleared before battle, and when the dust settles the ground holds exactly what it held before \u2014 nothing changed hands.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1156,
+    "generator_model": "claude-agent",
+    "metaphor": "An organism enters a dormant state and emerges unchanged \u2014 every cell exactly where it was before the pause.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1156,
+    "generator_model": "claude-agent",
+    "metaphor": "The chef leaves the dish untouched under its cloche, and when it is lifted the plate looks precisely as it was set.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1156,
+    "generator_model": "claude-agent",
+    "metaphor": "The rest mark holds for a full measure and the silence ends exactly where it began, nothing added and nothing removed.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1156,
+    "generator_model": "claude-agent",
+    "metaphor": "The garden lies fallow through winter and is found in spring exactly as it was left \u2014 not one stone or furrow displaced.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1156,
+    "generator_model": "claude-agent",
+    "metaphor": "The vessel holds its position at anchor through the night and at dawn sits in precisely the same bearing and depth it started.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1168,
+    "generator_model": "claude-agent",
+    "metaphor": "The cook drizzles sauce from the ladle toward the plated dish, and wherever the stream reaches open space it pools and claims that spot.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1168,
+    "generator_model": "claude-agent",
+    "metaphor": "A discordant note creeps measure by measure toward the tonic, absorbing each intervening rest until it arrives and resolves.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1168,
+    "generator_model": "claude-agent",
+    "metaphor": "A navigator advances the ship one league at a time toward the harbor light, claiming each open water square along the heading.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1175,
+    "generator_model": "claude-agent",
+    "metaphor": "The scout abandons the contested outpost and digs in at the nearest unoccupied fortification that offers a clear line of supply.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1175,
+    "generator_model": "claude-agent",
+    "metaphor": "A motile cell releases from its exhausted receptor and migrates to the closest open binding site on a viable host.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1175,
+    "generator_model": "claude-agent",
+    "metaphor": "The chef abandons the scorched pan and moves to whichever fresh burner is already warm and closest at hand.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1175,
+    "generator_model": "claude-agent",
+    "metaphor": "The soloist leaves the dissonant chord and resolves to the nearest consonant voicing that still has an open seat.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1175,
+    "generator_model": "claude-agent",
+    "metaphor": "The gardener pulls up the failing plant and replants it in the nearest prepared bed that has not yet been claimed.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1175,
+    "generator_model": "claude-agent",
+    "metaphor": "The vessel leaves the fouled anchorage and drops anchor at the nearest safe mooring with good holding ground.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1176,
+    "generator_model": "claude-agent",
+    "metaphor": "Each flanking battalion is drawn down by one unit after the assault, leaving only a skeleton force holding the line.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1176,
+    "generator_model": "claude-agent",
+    "metaphor": "A colony splits and one daughter cell departs, leaving the original cluster half its former size.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1176,
+    "generator_model": "claude-agent",
+    "metaphor": "Each ingredient on the prep station is used once, and the portion that was taken is gone \u2014 every pile shrinks by one measure.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1176,
+    "generator_model": "claude-agent",
+    "metaphor": "Each instrument section plays one note of its chord and then drops out, leaving only half the voices still sounding.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1176,
+    "generator_model": "claude-agent",
+    "metaphor": "The gardener harvests one cutting from each paired row, leaving a single stem where a double planting stood before.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1176,
+    "generator_model": "claude-agent",
+    "metaphor": "At each waypoint the convoy sheds one vehicle, so every paired escort arrives at the next checkpoint as a single scout.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 113,
+    "generator_model": "claude-agent",
+    "metaphor": "The corner seedlings grow into full garden beds while the edge cuttings root into narrow planter rows, with bare soil marking each corner and the center crosspath",
+    "source_domain": "gardening"
+  }
+]

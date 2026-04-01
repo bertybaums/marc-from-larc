@@ -29,3 +29,10 @@ __pycache__/
 
 # Claude Code settings (local)
 .claude/
+
+# Vision database files (large, distribute separately)
+marc_vision.db
+marc_vision.db-shm
+marc_vision.db-wal
+marc_vision_corrupted.db
+marc_vision_corrupted2.db

@@ -1,0 +1,3698 @@
+[
+  {
+    "task_id": 13,
+    "generator_model": "claude-agent",
+    "metaphor": "A gardener walking a row of identically pruned hedges stops at the one whose leaves have turned a rare amber and transplants only that shrub into a bed of its own.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 13,
+    "generator_model": "claude-agent",
+    "metaphor": "In a chorus line of identically costumed dancers, the one wearing a different color steps forward as the solo performer while the rest dissolve into the wings.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 13,
+    "generator_model": "claude-agent",
+    "metaphor": "The casting director, scanning four nearly identical audition headshots, selects the lone applicant with a different background color and builds the entire production around that portrait.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 13,
+    "generator_model": "claude-agent",
+    "metaphor": "Three cornerstone blocks of a building share the same gray granite, but the fourth is hewn from red sandstone \u2014 and it is that block's dimensions alone that dictate the scale of the new annex.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 13,
+    "generator_model": "claude-agent",
+    "metaphor": "A surveyor scanning four similar nebulae at the corners of the sky identifies the one glowing a different hue and maps only that region at full resolution.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 13,
+    "generator_model": "claude-agent",
+    "metaphor": "Among four reagent samples, the chemist spots the one whose color reveals a different compound and isolates it into a fresh vessel for the reaction.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 13,
+    "generator_model": "claude-agent",
+    "metaphor": "Four storm cells form at the horizon's corners, but one glows with a different tint on the radar; forecasters track only that cell as it grows into the day's weather.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 14,
+    "generator_model": "claude-agent",
+    "metaphor": "In a troupe of soloists, a dancer in red sends four partners spinning to the diagonal corners, while a dancer in dark blue dispatches two partners to stand directly above and below \u2014 the rest of the company stays still.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 14,
+    "generator_model": "claude-agent",
+    "metaphor": "A director places actors according to rank: a red-clad lead is flanked by four understudies at the diagonal corners of the stage, a blue-robed elder summons two sentinels to stand directly above and below, while the remaining players hold their positions.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 14,
+    "generator_model": "claude-agent",
+    "metaphor": "A column of one color sprouts flying buttresses at its four diagonal corners, a column of another color receives load-bearing piers only to its immediate north and south, while the remaining pillars stand unadorned.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 14,
+    "generator_model": "claude-agent",
+    "metaphor": "A red star draws four companion stars to its diagonal positions in the sky, a dark-blue star pulls two companions to hover directly above and below it along the meridian, while the other celestial bodies remain solitary.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 14,
+    "generator_model": "claude-agent",
+    "metaphor": "A reactive compound in red precipitates four satellite molecules at its diagonal bonds, while a compound in deep blue bonds to two molecules strictly along its vertical axis, and the remaining compounds sit inert.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 14,
+    "generator_model": "claude-agent",
+    "metaphor": "A red pressure cell spawns four smaller eddies at its diagonal corners, a dark-blue cold front pushes two satellite fronts directly above and below it, while other systems on the map remain unchanged.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 18,
+    "generator_model": "claude-agent",
+    "metaphor": "A choreographer stamps the same short phrase into all four quadrants of a doubled stage, then assigns a ghostly shadow dancer to hover diagonally off each performer \u2014 even where shadows overlap or spill into the wings.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 18,
+    "generator_model": "claude-agent",
+    "metaphor": "A set designer tiles the original scene into all four quadrants of an expanded stage, then plants a faint spotlight at each diagonal corner of every prop \u2014 overlapping pools of light and spill beyond the proscenium are left as-is.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 18,
+    "generator_model": "claude-agent",
+    "metaphor": "An architect reproduces the original floor plan in each quadrant of a doubled blueprint, then marks a cornerstone at every diagonal corner of each room \u2014 even where cornerstones crowd together or fall beyond the outer wall.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 18,
+    "generator_model": "claude-agent",
+    "metaphor": "An astronomer maps the original star cluster into all four quadrants of an expanded sky chart, then adds a faint halo star at each diagonal corner of every star \u2014 even when halos overlap or drift off the edge of the chart.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 18,
+    "generator_model": "claude-agent",
+    "metaphor": "A chemist reproduces the original molecular lattice in each quadrant of a doubled reaction grid, then attaches a catalyst marker diagonally to every atom \u2014 even where markers collide or extend beyond the lattice boundary.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 18,
+    "generator_model": "claude-agent",
+    "metaphor": "A meteorologist tiles the original pressure map into all four quadrants of a doubled forecast grid, then stamps a wind-shear marker at each diagonal corner of every pressure cell \u2014 even where markers overlap or blow off the map's edge.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 37,
+    "generator_model": "claude-agent",
+    "metaphor": "A stage manager counts the paired spotlight rigs hanging above the set, then lights that many consecutive lanterns along the single strip of footlights from stage-left.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 37,
+    "generator_model": "claude-agent",
+    "metaphor": "A surveyor counts the paired foundation pylons on a building site, then stakes that many consecutive plots in the single row of land designated for construction.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 37,
+    "generator_model": "claude-agent",
+    "metaphor": "An astronomer tallies the paired binary stars visible in the field, then illuminates that many consecutive positions along a single strip of the star map reading from west.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 37,
+    "generator_model": "claude-agent",
+    "metaphor": "A chemist counts the paired reaction vessels on the bench, then fills that many consecutive wells from left to right in a single-row assay strip.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 37,
+    "generator_model": "claude-agent",
+    "metaphor": "A storm tracker counts the paired pressure fronts crossing the region and marks that many consecutive segments \u2014 left to right \u2014 on the single forecast bar for the day.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 37,
+    "generator_model": "claude-agent",
+    "metaphor": "A choreographer counts the paired partner lifts rehearsed that day, then fills that many consecutive positions from stage-left in the single receiving line at the curtain call.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 55,
+    "generator_model": "claude-agent",
+    "metaphor": "A casting director reads which seats in a small nine-seat audition room are occupied and, recognizing the formation at a glance, calls out the single costume color the production requires.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 55,
+    "generator_model": "claude-agent",
+    "metaphor": "An architect looks at which cells in a small nine-cell plan carry load-bearing columns and, reading the structural pattern, names the single material the entire building calls for.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 55,
+    "generator_model": "claude-agent",
+    "metaphor": "An astronomer identifies which of the nine cells of a small sky-grid contain stars and, recognizing the arrangement as a named asterism, records the single classification color assigned to that constellation type.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 55,
+    "generator_model": "claude-agent",
+    "metaphor": "A gardener reads the pattern of blooming and dormant plants in a small nine-plot bed and, recognizing a familiar seasonal arrangement, knows at once which single color ribbon to tie on the gate.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 59,
+    "generator_model": "claude-agent",
+    "metaphor": "Two rival dance companies warm up at opposite ends of a long studio floor, each gathering its scattered members toward its own wall until both sides field exactly five dancers standing in a solid block.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 59,
+    "generator_model": "claude-agent",
+    "metaphor": "Two wings of a long building are each extended inward until each wing occupies exactly five bays of the corridor, their facades meeting somewhere in the middle.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 59,
+    "generator_model": "claude-agent",
+    "metaphor": "Two gas fronts released from opposite ends of a sealed tube migrate toward their respective walls, each accumulating molecules until a solid band of five occupies each end.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 59,
+    "generator_model": "claude-agent",
+    "metaphor": "Two opposing jet streams sweep from opposite horizons, each collecting scattered cloud cells toward its own pole until five clouds are stacked solid on each side of the sky.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 98,
+    "generator_model": "claude-agent",
+    "metaphor": "A choreographer watches a nearly complete formation and, seeing one dancer standing in the wrong spot, calmly moves them to the single empty position that completes the symmetry.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 98,
+    "generator_model": "claude-agent",
+    "metaphor": "A stage manager scans the set and notices one prop is still in the wings; placing it in the single open mark on the stage floor finally makes the scene whole.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 98,
+    "generator_model": "claude-agent",
+    "metaphor": "A telescope survey of the sky shows every expected star plotted except one; the astronomer records the missing star's position and the chart is at last complete.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 98,
+    "generator_model": "claude-agent",
+    "metaphor": "A chemist looking at a nearly filled reaction plate finds one well still empty and adds the final reagent \u2014 the entire row is now ready for analysis.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 98,
+    "generator_model": "claude-agent",
+    "metaphor": "A meteorologist's pressure map shows every sector filled with readings except one blank quadrant; once the missing station reports in, the full weather picture snaps into place.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 103,
+    "generator_model": "claude-agent",
+    "metaphor": "A choreographer reads a small rehearsal diagram to learn in which corner of the full-size stage the lead pair should begin, then checks a single marked dancer to know which adjacent corner the supporting duo must touch.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 103,
+    "generator_model": "claude-agent",
+    "metaphor": "A director consults a thumbnail stage sketch to determine which corner of the full theatre the principal set piece occupies at scale, and reads a single accent mark to know which neighboring corner a second piece must press against it.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 103,
+    "generator_model": "claude-agent",
+    "metaphor": "An architect interprets a small site thumbnail to decide which corner of the full-scale lot receives the primary building, then reads a single marker to determine which adjacent corner a second building must touch, sharing only a corner with the first.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 103,
+    "generator_model": "claude-agent",
+    "metaphor": "An astronomer reads a compact finder chart to locate which quadrant of the wide-field image holds the primary nebula at full scale, then reads a single reference star to know in which neighboring quadrant a companion nebula must sit, just grazing the first.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 103,
+    "generator_model": "claude-agent",
+    "metaphor": "A chemist reads a small crystallographic unit cell to determine which corner of the full crystal lattice the main cluster occupies, then notes a single tagged atom to find which adjacent corner a second cluster must touch, bonded only at a single vertex.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 103,
+    "generator_model": "claude-agent",
+    "metaphor": "A forecaster reads a thumbnail pressure map to determine which corner of the full regional grid the primary storm system will occupy at scale, then reads a single marker to know which neighboring corner a secondary system must press against it, touching only at one point.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 108,
+    "generator_model": "claude-agent",
+    "metaphor": "A recipe card's signature dish is scaled up and plated four times by removing the dividing tray, once in each corner of the table.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 108,
+    "generator_model": "claude-agent",
+    "metaphor": "The director removes the stage partition and casts the same actor into every quadrant of the theater, each one a mirror image of the other.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 108,
+    "generator_model": "claude-agent",
+    "metaphor": "Tear down the load-bearing cross-wall and the alcove's ornament is replicated into all four corners of the undivided hall.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 108,
+    "generator_model": "claude-agent",
+    "metaphor": "Once the celestial meridian is erased from the star chart, a single constellation is reproduced symmetrically across all four sky quadrants.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 108,
+    "generator_model": "claude-agent",
+    "metaphor": "Remove the dividing barrier from the reaction vessel and the crystal seed in one cell propagates its form into all four chambers simultaneously.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 108,
+    "generator_model": "claude-agent",
+    "metaphor": "When the front dissolves, the storm cell that formed in one quadrant spawns identical spirals across every section of the pressure map.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 110,
+    "generator_model": "claude-agent",
+    "metaphor": "The composer isolates the flawed bar from a dense score, then rewrites the passage with the wrong note omitted entirely.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 110,
+    "generator_model": "claude-agent",
+    "metaphor": "A choreographer marks the one dancer who is out of step, then rehearses only the surrounding formation without her.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 110,
+    "generator_model": "claude-agent",
+    "metaphor": "The stage manager cuts the understudy from the blocking chart and remounts the scene with the remaining cast intact.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 110,
+    "generator_model": "claude-agent",
+    "metaphor": "The restoration architect traces the crumbling section of facade, then redraws the elevation with only the sound stones kept.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 110,
+    "generator_model": "claude-agent",
+    "metaphor": "The astronomer masks the dead pixel that corrupts the image, then renders the surrounding nebula cleanly without the blemish.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 110,
+    "generator_model": "claude-agent",
+    "metaphor": "The chemist marks the contaminated molecule in a sample cluster, then precipitates only the pure surrounding compound.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 110,
+    "generator_model": "claude-agent",
+    "metaphor": "Meteorologists flag the rogue reading from the sensor array and replot the pressure system using only the clean surrounding data.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 113,
+    "generator_model": "claude-agent",
+    "metaphor": "Each organ grows to full size in its body cavity while the connecting tissue between them extends into thin bridging ligaments.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 113,
+    "generator_model": "claude-agent",
+    "metaphor": "Bright nebulae bloom at each galactic corner while the dim filaments threading between them stretch into faint bridge structures.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 113,
+    "generator_model": "claude-agent",
+    "metaphor": "The principal dancers claim each corner of the stage in full tableau while the corps members linking them extend into narrow diagonal lines.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 113,
+    "generator_model": "claude-agent",
+    "metaphor": "Corner towers rise to full battlements while the curtain wall running between them spans outward into a longer, thinner parapet.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 113,
+    "generator_model": "claude-agent",
+    "metaphor": "The keystones at the vault's four corners expand into full bosses while the ribs spanning between them fan out into longer, slenderer arches.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 113,
+    "generator_model": "claude-agent",
+    "metaphor": "Catalyst pellets pack densely into the reactor's four corners while the thin reagent streams threading between them elongate into narrow channels.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 113,
+    "generator_model": "claude-agent",
+    "metaphor": "High-pressure cells balloon into storm masses at each corner of the map while the isobar lines bridging them lengthen into thin, sweeping arcs.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 146,
+    "generator_model": "claude-agent",
+    "metaphor": "A lone actor stays in street clothes, but once a full ensemble assembles they don matching costumes that transform the scene.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 146,
+    "generator_model": "claude-agent",
+    "metaphor": "A single stone pillar stands unremarked, but once enough columns cluster into a colonnade the entire arcade is clad in a different stone.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 146,
+    "generator_model": "claude-agent",
+    "metaphor": "An isolated dim star keeps its yellow hue, but once enough stars gather into a cluster their combined light shifts the whole group into blue.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 146,
+    "generator_model": "claude-agent",
+    "metaphor": "A lone molecule remains unchanged, but once enough of them bond into a polymer chain the compound transitions to an entirely different phase.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 146,
+    "generator_model": "claude-agent",
+    "metaphor": "An isolated wisp of vapor stays white, but once enough droplets gather into a mass the whole cloud darkens into a different color entirely.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 159,
+    "generator_model": "claude-agent",
+    "metaphor": "The composer resolves every unfinished phrase by writing the cadence that turns the open question into a closed period.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 159,
+    "generator_model": "claude-agent",
+    "metaphor": "The ship's pilot redraws every broken route as a sealed loop, marking where the course must close back on itself.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 159,
+    "generator_model": "claude-agent",
+    "metaphor": "The builder seals every open frame with a lintel so that only fully enclosed rooms remain in the finished floor plan.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 159,
+    "generator_model": "claude-agent",
+    "metaphor": "A choreographer replaces any unfinished gesture with a closed circular motion, until every phrase in the routine returns to its starting position.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 159,
+    "generator_model": "claude-agent",
+    "metaphor": "The director swaps every unresolved scene ending for one that brings the curtain down cleanly, so no act is left hanging open.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 159,
+    "generator_model": "claude-agent",
+    "metaphor": "The astronomer completes every partial orbital arc on the chart into a full ellipse, and any that already closed are marked with inky corner posts.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 159,
+    "generator_model": "claude-agent",
+    "metaphor": "The chemist completes every broken ring structure in the reaction diagram until only fully closed cyclic compounds remain.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 159,
+    "generator_model": "claude-agent",
+    "metaphor": "The meteorologist completes every unfinished isobar until the pressure map shows only fully closed cells with no open-ended contours.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 163,
+    "generator_model": "claude-agent",
+    "metaphor": "An army splits into two flanks of identical composition, each one the precise reverse image of the other as they deploy across the field.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 163,
+    "generator_model": "claude-agent",
+    "metaphor": "A chef plates the same dish twice side by side, the second portion arranged as its exact left-right inverse.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 163,
+    "generator_model": "claude-agent",
+    "metaphor": "The gardener lays out a second identical bed beside the first, every plant placed in the mirrored position across the central path.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 163,
+    "generator_model": "claude-agent",
+    "metaphor": "The playwright stages the same scene twice on a split stage, the second troupe performing every move in reverse-handed symmetry.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 163,
+    "generator_model": "claude-agent",
+    "metaphor": "The architect annexes an identical wing to the building, orienting it so every window and doorway faces its twin across the axis of symmetry.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 163,
+    "generator_model": "claude-agent",
+    "metaphor": "A binary star system forms when a second star of identical spectral class appears beside the first, its position perfectly reversed across the gravitational center.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 163,
+    "generator_model": "claude-agent",
+    "metaphor": "A chiral molecule is paired with its enantiomer: same atoms, same bonds, but every spatial arrangement flipped to the opposite hand.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 166,
+    "generator_model": "claude-agent",
+    "metaphor": "The choreographer assigns the grey-sashed soloists to a different formation depending on how many distinct styles of dancer are in the company.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 166,
+    "generator_model": "claude-agent",
+    "metaphor": "The stage designer places the spotlight beams along a different axis for each production depending on how many distinct character types appear in the script.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 166,
+    "generator_model": "claude-agent",
+    "metaphor": "The urban planner zones the grey civic buildings differently \u2014 in a row, a diagonal, or a counter-diagonal \u2014 according to how many distinct land-use types the city contains.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 166,
+    "generator_model": "claude-agent",
+    "metaphor": "The observatory marks dim guide stars along a different track across the sky map depending on how many distinct spectral classes the night's targets represent.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 166,
+    "generator_model": "claude-agent",
+    "metaphor": "The chemist positions the grey catalyst pellets along a different pathway in the reactor grid depending on how many distinct reagent types are present.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 176,
+    "generator_model": "claude-agent",
+    "metaphor": "A cell extracted from surrounding tissue is cultivated until it spontaneously expresses its bilateral symmetry, producing an image beside itself.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 176,
+    "generator_model": "claude-agent",
+    "metaphor": "The chef plates the trimmed fillet, then folds the presentation so the cut face meets its own reflection in the serving dish.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 176,
+    "generator_model": "claude-agent",
+    "metaphor": "A gardener lifts a topiary from the surrounding hedge and trains a second matching form to grow beside it in perfect reverse.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 176,
+    "generator_model": "claude-agent",
+    "metaphor": "The soloist is pulled from the corps and placed center stage, then a shadow dancer enters from the wings to perform the exact inverse of every move.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 176,
+    "generator_model": "claude-agent",
+    "metaphor": "The playwright extracts the protagonist from the crowded ensemble scene and writes a doppelganger who enters from the opposite side, mirroring every gesture.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 176,
+    "generator_model": "claude-agent",
+    "metaphor": "The surveyor stakes out only the footprint of the building within its surroundings, then draws the elevation twice \u2014 once forward and once reversed \u2014 as a folded blueprint.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 176,
+    "generator_model": "claude-agent",
+    "metaphor": "An asteroid is isolated from the debris field and its rotation mapped, then an identical twin appears beside it spinning in the opposite direction.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 176,
+    "generator_model": "claude-agent",
+    "metaphor": "The chemist isolates the target isomer from the mixture and synthesizes its mirror-image enantiomer alongside it in a purified pair.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 176,
+    "generator_model": "claude-agent",
+    "metaphor": "A weather system is cropped from the surrounding noise on the satellite map, then its pressure gradient is reflected to show the symmetric anticyclone beside it.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 179,
+    "generator_model": "claude-agent",
+    "metaphor": "Three weather systems drift in sequence over a landscape already tinted by the first, each new front leaving its own color but letting the earlier sky show through wherever the new clouds part.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 179,
+    "generator_model": "claude-agent",
+    "metaphor": "A choreographer layers four soloists onto the same stage one after another, each new dancer casting no shadow over those already there.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 179,
+    "generator_model": "claude-agent",
+    "metaphor": "Four dyes are printed onto a single fabric swatch in succession, each new color skipping the blank spots so older hues below remain visible.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 182,
+    "generator_model": "claude-agent",
+    "metaphor": "Four corner constellations each cast their characteristic glow inward, and where their light converges at the center the night sky is painted in their combined colors.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 182,
+    "generator_model": "claude-agent",
+    "metaphor": "A ballroom's four corner lights flood the floor and the pattern that forms at the center is the sum of every hue each corner lantern contributes.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 182,
+    "generator_model": "claude-agent",
+    "metaphor": "A cathedral's four corner buttresses are each clad in a different stone, and the hues they carry are echoed inward across the vaulted central nave.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 182,
+    "generator_model": "claude-agent",
+    "metaphor": "Four weather fronts converge from the cardinal corners, and the pattern of precipitation they leave at the center reflects the character of every front that arrived.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 189,
+    "generator_model": "claude-agent",
+    "metaphor": "A shooting star traces its diagonal arc across the sky until it finally vanishes into the constellation that shares its color.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 189,
+    "generator_model": "claude-agent",
+    "metaphor": "A dancer slides diagonally across the stage in a single unbroken glide until she reaches the wing marked with her own color, where she stops.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 189,
+    "generator_model": "claude-agent",
+    "metaphor": "A crack in the ice sheet propagates diagonally outward from the impact point until it meets the far edge already stained the same color.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 189,
+    "generator_model": "claude-agent",
+    "metaphor": "A rainstorm cell tracks diagonally across a map until it dissipates into a region already under skies of the same color.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 189,
+    "generator_model": "claude-agent",
+    "metaphor": "A lone actor crosses the stage on a diagonal until she reaches the set piece painted to match her own costume.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 189,
+    "generator_model": "claude-agent",
+    "metaphor": "A load-bearing crack runs diagonally through a wall until it terminates at the column already marked with the same material.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 194,
+    "generator_model": "claude-agent",
+    "metaphor": "A constellation map is redrawn at full scale, then every bright star in it becomes a miniature sky that holds the same map inside itself.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 194,
+    "generator_model": "claude-agent",
+    "metaphor": "A troupe arranges itself into a formation, then every lit position in that formation becomes a small stage where the same formation dances again in miniature.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 194,
+    "generator_model": "claude-agent",
+    "metaphor": "A floor plan is drawn for the building, and every room shown as occupied on the plan is fitted inside with a scaled copy of the full floor plan.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 194,
+    "generator_model": "claude-agent",
+    "metaphor": "A cloud formation is mapped across the sky, and every cloud cell in the pattern contains inside it a weather system arranged in exactly the same pattern.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 194,
+    "generator_model": "claude-agent",
+    "metaphor": "A compound molecule is drawn out, then each active group in the structure unfolds to reveal the same molecular diagram replicated at smaller scale.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 194,
+    "generator_model": "claude-agent",
+    "metaphor": "A scene is staged with certain positions marked, and inside each occupied spot the stage manager recreates the full blocking diagram in miniature.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 198,
+    "generator_model": "claude-agent",
+    "metaphor": "A dancer drops one step lower on the stage, a spotlight instantly marks where she stood, and then alternating rows above her glow in sympathy on every other level.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 198,
+    "generator_model": "claude-agent",
+    "metaphor": "A keystone slides down one course in a wall, a fresh lintel is laid where it rested, and horizontal accent bands appear on every other course above that line.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 198,
+    "generator_model": "claude-agent",
+    "metaphor": "A planet drifts one orbit outward, the vacated orbit glows with new material, and harmonic resonance rings every other orbital shell beyond it.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 198,
+    "generator_model": "claude-agent",
+    "metaphor": "A solute crystal settles one layer deeper in solution, a reaction band forms at the level it left, and precipitate stripes appear at every other depth above.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 198,
+    "generator_model": "claude-agent",
+    "metaphor": "A cold front drops one pressure band lower on the map, a bright isobar appears in its wake, and alternate pressure bands above it light up in the same color.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 205,
+    "generator_model": "claude-agent",
+    "metaphor": "A hologram projector finds a blank screen on the stage floor and casts its full patterned image centered precisely over that spot.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 205,
+    "generator_model": "claude-agent",
+    "metaphor": "A comet finds a pale asteroid drifting in the void and wraps its full coma pattern around that body, centered on its core.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 205,
+    "generator_model": "claude-agent",
+    "metaphor": "A crystal seed encounters a neutral zone in solution and propagates its full lattice pattern outward from that point as its center.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 205,
+    "generator_model": "claude-agent",
+    "metaphor": "A dancer finds an unlit mark on the floor and performs her full spatial pattern of movement centered exactly on that point.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 205,
+    "generator_model": "claude-agent",
+    "metaphor": "A storm cell locates a calm grey patch of atmosphere and expands its full spiral band structure outward from that calm center.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 205,
+    "generator_model": "claude-agent",
+    "metaphor": "A column capital design is stamped onto any plain pillar found in the hall, the full ornamental pattern blooming outward from that pillar's axis.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 211,
+    "generator_model": "claude-agent",
+    "metaphor": "Two species of light travel through the same fiber \u2014 one halts at the internal mirror, the other carries on until it exits at the far end of the cable.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 211,
+    "generator_model": "claude-agent",
+    "metaphor": "Two weather systems expand in the same direction \u2014 one stalls where it meets a mountain range, the other rolls on until it reaches the coastline.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 211,
+    "generator_model": "claude-agent",
+    "metaphor": "Two comets stream across the sky on parallel paths \u2014 one is captured by the gravity well of a dense body and stops there, while the other exits the solar system entirely.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 211,
+    "generator_model": "claude-agent",
+    "metaphor": "Two dancers rush across the stage in the same direction \u2014 one pulls up short at the wing curtain, the other continues until she reaches the very edge of the apron.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 211,
+    "generator_model": "claude-agent",
+    "metaphor": "Two actors stride toward the back of the set \u2014 one stops at the painted partition that blocks the interior, the other walks on until she exits through the upstage wall.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 211,
+    "generator_model": "claude-agent",
+    "metaphor": "Two utility runs extend through a building \u2014 one terminates at the load-bearing wall it cannot cross, the other continues until it reaches the exterior facade.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 219,
+    "generator_model": "claude-agent",
+    "metaphor": "In a jeweler's display case, each gemstone is bedded in the specific velvet color the house has always reserved for that stone alone.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 219,
+    "generator_model": "claude-agent",
+    "metaphor": "On a building elevation, each structural material is outlined in the drafting color assigned by convention to that material type.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 219,
+    "generator_model": "claude-agent",
+    "metaphor": "Each chemical element on the periodic table is highlighted in the color its electron-emission spectrum produces when excited.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 219,
+    "generator_model": "claude-agent",
+    "metaphor": "On a synoptic chart, each air-mass type is shaded in the color meteorologists have always used to mark that particular pressure system.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 225,
+    "generator_model": "claude-agent",
+    "metaphor": "A choreographer watches a full company rehearse and marks only the dancers who belong in the final performance",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 225,
+    "generator_model": "claude-agent",
+    "metaphor": "The stage manager strikes all the background props after opening night, leaving only the set pieces that carry the story",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 225,
+    "generator_model": "claude-agent",
+    "metaphor": "A demolition crew clears the scaffolding and rubble to expose the load-bearing structure within",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 225,
+    "generator_model": "claude-agent",
+    "metaphor": "Long-exposure photography of the night sky burns away the clouds to reveal only the persistent stars below",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 225,
+    "generator_model": "claude-agent",
+    "metaphor": "After the fog burns off the valley, only the hilltops and ridgelines remain visible above the mist",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 226,
+    "generator_model": "claude-agent",
+    "metaphor": "Two platoons advance from opposite ends of the field to occupy it, and the ground neither platoon sets foot on is scorched by artillery",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 226,
+    "generator_model": "claude-agent",
+    "metaphor": "Two pie crusts are pressed together face-to-face, and the air pockets left uncovered by either layer blister red in the oven",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 226,
+    "generator_model": "claude-agent",
+    "metaphor": "Two seed maps are laid atop each other and the bare patches where neither planting reached turn to rust-colored clay",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 226,
+    "generator_model": "claude-agent",
+    "metaphor": "Two rival theater companies share the same stage, and every square of floor untouched by either troupe is lit by a blood-red followspot",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 226,
+    "generator_model": "claude-agent",
+    "metaphor": "Two blueprints are overlaid on the drafting table, and every area unclaimed by either floor plan is flagged in red as structural void",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 226,
+    "generator_model": "claude-agent",
+    "metaphor": "Two nebulae drift together and overlap, while the vacuum left uncovered by either cloud glows red with background radiation",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 226,
+    "generator_model": "claude-agent",
+    "metaphor": "Two storm fronts converge across the map, and the dry corridors between them \u2014 touched by neither system \u2014 flare into dangerous heat",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 227,
+    "generator_model": "claude-agent",
+    "metaphor": "Four understudies waiting in the wings of the stage diagonal across to take up positions beyond the four far corners of the set",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 227,
+    "generator_model": "claude-agent",
+    "metaphor": "The prompter's lights at each inner corner of the stage fly diagonally outward to anchor the very edges of the theater's walls",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 227,
+    "generator_model": "claude-agent",
+    "metaphor": "Corner keystones are ejected from the inner arch and reset at the outermost corners of the facade, inverting the frame's tension",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 227,
+    "generator_model": "claude-agent",
+    "metaphor": "Four marker molecules at the inner corners of a crystal unit cell are expelled along the diagonal axes to pin the outer lattice boundary",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 227,
+    "generator_model": "claude-agent",
+    "metaphor": "Pressure cells at each interior corner of a storm system rocket outward along the diagonal to settle at the far edge of the weather map",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 236,
+    "generator_model": "claude-agent",
+    "metaphor": "A solo dancer at center stage sends a ripple outward along each cardinal axis until the stage fills with a cross of motion",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 236,
+    "generator_model": "claude-agent",
+    "metaphor": "A single actor speaks one line and the echo rolls down each aisle of the theater until every row hears it",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 236,
+    "generator_model": "claude-agent",
+    "metaphor": "A cornerstone is laid and the foundation walls extend north, south, east, and west until the building's cross-shaped plan is complete",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 236,
+    "generator_model": "claude-agent",
+    "metaphor": "A newly discovered asteroid's gravity nudges a ring of debris outward along four radial spokes of the solar plane",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 236,
+    "generator_model": "claude-agent",
+    "metaphor": "A single reagent crystal dropped into solution sends four reaction fronts racing along perpendicular channels across the dish",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 236,
+    "generator_model": "claude-agent",
+    "metaphor": "One lightning strike seeds a pressure wave that rolls outward in four cardinal arms across the open plain",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 238,
+    "generator_model": "claude-agent",
+    "metaphor": "After the performance ends, the stage manager tallies how many dancers wore each costume color and lines up one marker per dancer in descending count",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 238,
+    "generator_model": "claude-agent",
+    "metaphor": "The casting director inventories the props by type and arranges them in rows from most to fewest across the rehearsal floor",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 238,
+    "generator_model": "claude-agent",
+    "metaphor": "A surveyor catalogs every window on the building face by size and stacks one tally block per window in descending columns on the drawing",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 238,
+    "generator_model": "claude-agent",
+    "metaphor": "A spectroscopist counts the distinct emission lines of each element in the sample and plots one tick per photon detected, ordered from most to fewest",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 238,
+    "generator_model": "claude-agent",
+    "metaphor": "A meteorologist tallies the days each cloud type appeared this month and draws a descending bar for each type across the forecast chart",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 241,
+    "generator_model": "claude-agent",
+    "metaphor": "A baker notices the recipe card is torn at one corner, so she reads the pattern in the intact corners and writes in what must be missing",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 241,
+    "generator_model": "claude-agent",
+    "metaphor": "The second violin section enters on cue to complete the round that the other three sections have already begun",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 241,
+    "generator_model": "claude-agent",
+    "metaphor": "A navigator plots the three known waypoints on the chart and extends their bearing lines until they converge on the unmarked fourth position",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 241,
+    "generator_model": "claude-agent",
+    "metaphor": "Three dancers hold their positions while the fourth watches and then moves to complete the symmetry the formation demands",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 241,
+    "generator_model": "claude-agent",
+    "metaphor": "A scenic designer looks at the painted flats on three walls of the set and copies their motif onto the blank fourth wall",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 241,
+    "generator_model": "claude-agent",
+    "metaphor": "Three archways of the cloister show the same carved frieze; the mason reads the pattern and chisels it into the damaged fourth arch",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 241,
+    "generator_model": "claude-agent",
+    "metaphor": "Three quadrants of the galaxy map share the same spiral arm spacing; the astronomer extrapolates and fills in the obscured fourth quadrant",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 241,
+    "generator_model": "claude-agent",
+    "metaphor": "Three faces of a crystal unit cell reveal the same bond angle; the chemist calculates and draws in the hidden fourth face",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 241,
+    "generator_model": "claude-agent",
+    "metaphor": "Three quadrants of the weather chart show the same isobar spacing; the forecaster completes the missing fourth quadrant from the visible pressure gradient",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 243,
+    "generator_model": "claude-agent",
+    "metaphor": "A general strips the color-coded grid off the tactical map and retains only the pure terrain features, then mirrors them to plan the flanking route",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 243,
+    "generator_model": "claude-agent",
+    "metaphor": "A pastry chef lifts the cookie cutter away from the dough and flips the cut shapes face-to-face so the pattern meets its own mirror image",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 243,
+    "generator_model": "claude-agent",
+    "metaphor": "A gardener pulls up the wire grid that trained the hedge, keeps only the sculpted topiary, and reflects it across the central path",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 243,
+    "generator_model": "claude-agent",
+    "metaphor": "The pilot discards the range-ring overlay on the radar and flips just the contact track across the centerline to project its mirror-image course",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 243,
+    "generator_model": "claude-agent",
+    "metaphor": "The stage director tears down the rehearsal tape grid from the floor and reflects the blocking diagram left-to-right for the touring production",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 243,
+    "generator_model": "claude-agent",
+    "metaphor": "A choreographer erases the floor marks used during rehearsal and flips the movement phrase horizontally so the company can perform its mirror twin",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 243,
+    "generator_model": "claude-agent",
+    "metaphor": "An architect removes the dimension lines from the blueprint and flips the floor plan left-to-right to produce the mirrored wing of the building",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 243,
+    "generator_model": "claude-agent",
+    "metaphor": "An astronomer strips the coordinate grid from the star-field image and reflects the constellation horizontally as it would appear from the opposite hemisphere",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 243,
+    "generator_model": "claude-agent",
+    "metaphor": "A meteorologist removes the pressure-grid lines from the synoptic chart and mirrors the storm pattern east-to-west to model the corresponding high-pressure twin",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 245,
+    "generator_model": "claude-agent",
+    "metaphor": "A sailor changes the signal flags on every mast to new colors while the ship holds the same heading and formation",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 245,
+    "generator_model": "claude-agent",
+    "metaphor": "The costumer recolors every character's outfit between acts while the blocking and stage positions remain exactly the same",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 245,
+    "generator_model": "claude-agent",
+    "metaphor": "A building is repainted in an entirely new palette of hues but every wall, window, and roofline stays exactly where it was",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 245,
+    "generator_model": "claude-agent",
+    "metaphor": "The indicator dye in the solution changes hue as conditions shift, while the molecular scaffolding beneath remains unchanged",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 245,
+    "generator_model": "claude-agent",
+    "metaphor": "A weather map keeps its isobar contours in exactly the same positions while the color fill coding for temperature shifts to an entirely new scheme",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 246,
+    "generator_model": "claude-agent",
+    "metaphor": "Dancers sort themselves by how many routines they know and then line up in columns \u2014 the busiest performers towering at center stage.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 246,
+    "generator_model": "claude-agent",
+    "metaphor": "Each actor's lines are counted and the cast arranges itself into vertical tiers, the most-scripted players rising in the tallest column.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 246,
+    "generator_model": "claude-agent",
+    "metaphor": "Columns of bricks rise to the height of whichever material is most plentiful, taller towers marking which stone the quarry yielded most.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 246,
+    "generator_model": "claude-agent",
+    "metaphor": "Stars are clustered by spectral type and stacked in vertical bands, the most numerous class reaching the highest point in the sky chart.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 246,
+    "generator_model": "claude-agent",
+    "metaphor": "Molecules are grouped by element and precipitated into crystalline columns, the most abundant element building the tallest tower.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 246,
+    "generator_model": "claude-agent",
+    "metaphor": "Raindrops are sorted by color into gauges and the fullest gauge determines how high all the other columns of that shower must rise.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 247,
+    "generator_model": "claude-agent",
+    "metaphor": "Rival scouts leapfrog diagonally across a field, each crossing to the opposite flank one step higher than the last, working their way to the far ridge.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 247,
+    "generator_model": "claude-agent",
+    "metaphor": "A rolling pin angles left then right across the dough, each pass shifted one row up, working the entire slab from the bottom edge to the top.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 247,
+    "generator_model": "claude-agent",
+    "metaphor": "A vine tendril reaches for one trellis wire, then angles back to the opposite post, each crossing one rung higher, until it crests the arbor.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 247,
+    "generator_model": "claude-agent",
+    "metaphor": "A helmsman tacks port then starboard in a narrow channel, each turn shifted one latitude line higher, tacking all the way to the far headland.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 247,
+    "generator_model": "claude-agent",
+    "metaphor": "A dancer traces a diagonal across the stage, pivots at the wing, then cuts back the other way one step higher \u2014 repeating until they reach the flies.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 247,
+    "generator_model": "claude-agent",
+    "metaphor": "A spotlight sweeps diagonally to one side of the proscenium, reverses to the other, climbing one row of seats higher with every crossing.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 247,
+    "generator_model": "claude-agent",
+    "metaphor": "A staircase switches direction at each landing, each run slanting the opposite way up through the building, rising floor by floor.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 247,
+    "generator_model": "claude-agent",
+    "metaphor": "A comet crosses the solar system at an angle, rebounds off the plane of the ecliptic, then angles back, each arc carrying it one step closer to the pole.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 247,
+    "generator_model": "claude-agent",
+    "metaphor": "An ion bounces between charged plates in a cyclotron, each diagonal crossing deflected one row higher until it exits at the top of the chamber.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 248,
+    "generator_model": "claude-agent",
+    "metaphor": "A baker scores one half of the tray, then slides an identical cutter across the untouched half, producing a tray with two matching grids side by side.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 248,
+    "generator_model": "claude-agent",
+    "metaphor": "A gardener lays out a bed in the east half of the plot, then measures and replicates every border and patch in the empty west half.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 248,
+    "generator_model": "claude-agent",
+    "metaphor": "A cartographer copies a coastal chart onto the blank territory immediately to its right, giving the whole shoreline two identical maps laid edge to edge.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 248,
+    "generator_model": "claude-agent",
+    "metaphor": "A choreographer teaches the left ensemble their formation, then walks the right ensemble through every step so both groups hold the same shape side by side.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 248,
+    "generator_model": "claude-agent",
+    "metaphor": "A theater company builds a duplicate set piece flush against the original so two identical scenes can play simultaneously on a doubled stage.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 248,
+    "generator_model": "claude-agent",
+    "metaphor": "A binary star forms when a cloud of gas collapses twice into the same pattern, leaving two identical suns orbiting as a matched pair.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 248,
+    "generator_model": "claude-agent",
+    "metaphor": "A crystal cleaves and the two faces grow back in perfect register, the molecular lattice repeating on both halves of the split.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 248,
+    "generator_model": "claude-agent",
+    "metaphor": "A storm cell spawns a twin low-pressure system immediately downwind, both rotating in the same pattern across the doubled weather map.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 256,
+    "generator_model": "claude-agent",
+    "metaphor": "Four battalions advance into the same territory and each unit plants its flag only on ground still bare, leaving the first regiment's markers untouched wherever they already stand.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 256,
+    "generator_model": "claude-agent",
+    "metaphor": "Four bakers frost the same cake in turns, each spreading their color only into gaps left unfrosted, so the first color remains wherever it was already laid.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 256,
+    "generator_model": "claude-agent",
+    "metaphor": "Four dancers each claim a patch of the stage floor in turn, stepping only into the spaces their predecessors left open, the first dancer's marks never overwritten.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 256,
+    "generator_model": "claude-agent",
+    "metaphor": "Four directors each project their blocking onto the same stage diagram, each adding only to the empty positions, the opening director's marks always visible beneath.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 256,
+    "generator_model": "claude-agent",
+    "metaphor": "Four construction crews lay tile on the same floor in sequence, each filling only the spaces still uncovered, the first crew's tiles always staying on top.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 256,
+    "generator_model": "claude-agent",
+    "metaphor": "Four nebulae collapse into a shared region one after another, each new cloud condensing only where no star yet shines, the earliest stars never displaced.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 256,
+    "generator_model": "claude-agent",
+    "metaphor": "Four dyes are added to the same solution in sequence, each binding only to unoccupied receptor sites, leaving the first dye's bonds intact wherever they already formed.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 256,
+    "generator_model": "claude-agent",
+    "metaphor": "Four weather systems sweep across the same map one after another, each depositing precipitation only where the ground is still dry, the first system's marks never washed away.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 265,
+    "generator_model": "claude-agent",
+    "metaphor": "The entire troupe freezes except for the soloist in the downstage corner, who becomes the only moving body in an otherwise still tableau.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 265,
+    "generator_model": "claude-agent",
+    "metaphor": "An architect erases every room from the blueprint except the corner office, leaving a plan defined entirely by that single isolated space.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 265,
+    "generator_model": "claude-agent",
+    "metaphor": "A telescope sweeps a crowded star field and locks onto the lone bright point tucked at the edge of the frame, blacking out everything else.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 265,
+    "generator_model": "claude-agent",
+    "metaphor": "A chemist washes away every precipitate from the dish except the single red crystal that settled in the far corner of the filter.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 265,
+    "generator_model": "claude-agent",
+    "metaphor": "A storm strips every feature from the landscape bare and leaves only the one stubborn outcrop standing in the corner of the valley.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 280,
+    "generator_model": "claude-agent",
+    "metaphor": "A musician tunes a phrase to match a distant note, stretching each interval outward until the melody finally reaches and resolves onto that far pitch.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 280,
+    "generator_model": "claude-agent",
+    "metaphor": "A dancer extends a curved frame outward \u2014 arms and legs arching wider \u2014 until the outermost limb wraps around a point across the room, the hollow interior now filled.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 280,
+    "generator_model": "claude-agent",
+    "metaphor": "A picture frame is hauled across the floor until its far edge touches the mark on the wall, everything between the original frame and the mark now enclosed within it.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 280,
+    "generator_model": "claude-agent",
+    "metaphor": "A foundation is poured outward in every direction from a central shell until the outer wall reaches a distant boundary marker, the solid fill spreading inward behind it.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 280,
+    "generator_model": "claude-agent",
+    "metaphor": "A planetary ring expands outward until its rim sweeps over a solitary moon, the ring's interior closing in solid behind the advancing edge.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 280,
+    "generator_model": "claude-agent",
+    "metaphor": "A membrane swells outward from a double-walled vesicle, stretching until the outer layer engulfs a distant particle, the inner layer filling the enclosed space solid.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 280,
+    "generator_model": "claude-agent",
+    "metaphor": "A double band of clouds expands outward until the outer edge sweeps over a lone weather station, the solid precipitation filling every gap behind it.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 297,
+    "generator_model": "claude-agent",
+    "metaphor": "Three enemy lines press inward, but as they do each regiment inherits the uniform of the force it just displaced, until the innermost garrison wears the outermost army's colors.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 297,
+    "generator_model": "claude-agent",
+    "metaphor": "Three nested cell membranes each absorb the chemical identity of the layer just outside them, so the innermost cell ends up wearing the outer membrane's markers.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 297,
+    "generator_model": "claude-agent",
+    "metaphor": "Three concentric pastry shells are filled in a rotating pass \u2014 each shell receives the filling that belonged to the ring outside it, and the outermost shell gets the innermost filling.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 297,
+    "generator_model": "claude-agent",
+    "metaphor": "Three nested bells are swapped between their stands in one round-trip: each bell hangs where its outward neighbor once hung, and the smallest bell ends up on the outermost post.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 297,
+    "generator_model": "claude-agent",
+    "metaphor": "Three concentric garden hedges are transplanted outward one ring at a time, each hedge rooted where the hedge just outside it once grew, the innermost plants ending up at the perimeter.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 297,
+    "generator_model": "claude-agent",
+    "metaphor": "Three nested territorial boundaries are each redrawn one ring outward, every region inheriting the designation of the zone that once surrounded it, the outer zone taking the inner name.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 297,
+    "generator_model": "claude-agent",
+    "metaphor": "Three actors in concentric circles each step into the role played by the person just outside them, so the innermost player now delivers the outermost character's lines.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 297,
+    "generator_model": "claude-agent",
+    "metaphor": "Three nested archways are each clad in the stone belonging to the arch one ring out \u2014 the keystone at the center ends up dressed in the outermost arch's facade.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 297,
+    "generator_model": "claude-agent",
+    "metaphor": "Three concentric atomic shells each absorb the electron configuration of the shell just beyond them in a single quantum reshuffling, the core ending up with the valence shell's signature.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 297,
+    "generator_model": "claude-agent",
+    "metaphor": "Three nested pressure bands each take on the wind pattern of the band just outside them in one synoptic shift, the innermost calm ending up with the outermost gale.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 298,
+    "generator_model": "claude-agent",
+    "metaphor": "Two siege lines \u2014 one horizontal, one vertical \u2014 each push to the edge of the battlefield, and wherever they finally collide a golden standard is planted.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 298,
+    "generator_model": "claude-agent",
+    "metaphor": "A gardener runs a row of red blooms across the full bed and a column of blue blooms down it; where the two rows meet, a rare yellow flower springs up.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 298,
+    "generator_model": "claude-agent",
+    "metaphor": "Two lines of dancers extend their formations to the wings \u2014 one crossing the stage horizontally, one vertically \u2014 and at the single point they share, they lift a partner in gold.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 298,
+    "generator_model": "claude-agent",
+    "metaphor": "Two spotlights track their beams across the full width and full height of the stage; wherever the beams cross, the color shifts to a brilliant amber.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 298,
+    "generator_model": "claude-agent",
+    "metaphor": "A grid of load-bearing beams runs from wall to wall in both directions, and at every crossing point the joint is capped with a gilded keystone.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 298,
+    "generator_model": "claude-agent",
+    "metaphor": "Two meteor showers streak across the sky at right angles to each other, and at the single point their paths intersect a new star momentarily blazes gold.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 298,
+    "generator_model": "claude-agent",
+    "metaphor": "Two reagent fronts spread across a reaction plate \u2014 one horizontal, one vertical \u2014 and where they meet a third, golden precipitate crystallizes at the junction.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 298,
+    "generator_model": "claude-agent",
+    "metaphor": "A warm front pushes all the way across a map while a cold front descends the full height; at the single cell where they converge, a bright storm cell ignites.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 309,
+    "generator_model": "claude-agent",
+    "metaphor": "A choreographer counts the steps along the stage's edge before deciding how wide the company must spread to fill it.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 309,
+    "generator_model": "claude-agent",
+    "metaphor": "The proscenium arch's measured span tells the set designer exactly how deep a stage the scenery must cover.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 309,
+    "generator_model": "claude-agent",
+    "metaphor": "The colonnade's counted columns determine the width of the courtyard the building must enclose.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 309,
+    "generator_model": "claude-agent",
+    "metaphor": "The ring of moons orbiting a planet sets the scale of the gravitational field the planet must sustain.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 309,
+    "generator_model": "claude-agent",
+    "metaphor": "The number of bonds in the outer shell dictates how large a molecular cage the atom must fill.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 309,
+    "generator_model": "claude-agent",
+    "metaphor": "The circumference of the eye wall tells forecasters how vast the calm center must be.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 315,
+    "generator_model": "claude-agent",
+    "metaphor": "Seeds blown randomly across a field are collected one by one from left to right and pressed into a dense boustrophedon seedbed.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 315,
+    "generator_model": "claude-agent",
+    "metaphor": "Instruments left lying haphazardly across the rehearsal hall are retrieved in reading order and arranged in a tight serpentine lineup on the stage.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 315,
+    "generator_model": "claude-agent",
+    "metaphor": "Dancers frozen in scattered poses across the theater are swept into a single boustrophedon procession, filling ranks from the top corner before doubling back.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 315,
+    "generator_model": "claude-agent",
+    "metaphor": "Props left strewn randomly across the wings are collected left to right across the stage and placed in a tight zigzag row, filling each shelf before turning back.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 315,
+    "generator_model": "claude-agent",
+    "metaphor": "Stars catalogued in random positions across the sky are re-indexed in reading order and plotted row by row into a compact serpentine star chart.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 315,
+    "generator_model": "claude-agent",
+    "metaphor": "Reagent droplets scattered unpredictably across a slide are pipetted in left-to-right order into a boustrophedon grid of wells until the tray is full.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 315,
+    "generator_model": "claude-agent",
+    "metaphor": "Hailstones scattered randomly across a field are gathered in sweeping passes from left to right, each row collected and stacked before the collector turns back for the next.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 317,
+    "generator_model": "claude-agent",
+    "metaphor": "Two movements of a symphony are played simultaneously and every note that sounds in either becomes a single sustained green tone in the combined score.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 317,
+    "generator_model": "claude-agent",
+    "metaphor": "Two garden plots are folded on top of each other and wherever any plant grows in either bed, a single green shoot marks that spot in the merged garden.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 317,
+    "generator_model": "claude-agent",
+    "metaphor": "Two dancers' floor patterns are traced on the same stage and every square either of them ever touched glows the same uniform green.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 317,
+    "generator_model": "claude-agent",
+    "metaphor": "Two acts of a play are printed on the same stage plan and every position occupied in either scene is marked with a single green light cue.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 317,
+    "generator_model": "claude-agent",
+    "metaphor": "Two building blueprints are pinned together and every room drawn on either plan is rendered in the same green tile on the merged floor plan.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 317,
+    "generator_model": "claude-agent",
+    "metaphor": "Two sky surveys are combined and every position where any object appears in either image is marked as a single green source on the joint atlas.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 317,
+    "generator_model": "claude-agent",
+    "metaphor": "Two storm tracks are merged onto one map and every grid square that either storm ever crossed is colored the same uniform green.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 319,
+    "generator_model": "claude-agent",
+    "metaphor": "A regiment's column is split at the waist \u2014 the soldiers below change uniform color while those above keep theirs, with the taller column always awarding one more rank to the top.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 319,
+    "generator_model": "claude-agent",
+    "metaphor": "A lighthouse beam divided at mid-height shines warm amber at the top and cool blue below, with odd-height towers giving the warm band one extra step.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 319,
+    "generator_model": "claude-agent",
+    "metaphor": "Each dancer's vertical sequence of leaps splits at the midpoint \u2014 the lower half lands in blue while the upper half stays red, with odd counts favoring the top.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 319,
+    "generator_model": "claude-agent",
+    "metaphor": "Each actor's stack of costumes is divided at the middle \u2014 the lower garments dye blue while the upper ones remain red, with odd stacks giving one extra to the top.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 319,
+    "generator_model": "claude-agent",
+    "metaphor": "Each tower of stacked stories is split at its midpoint \u2014 the lower floors are clad in cool glass while the upper floors keep their red brick, with odd-story buildings giving the red top one extra floor.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 319,
+    "generator_model": "claude-agent",
+    "metaphor": "Each column of molecules in a reaction splits at its midpoint \u2014 the bottom half converts to a cooler state while the top half remains energized, with odd columns granting one extra molecule to the energized top.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 319,
+    "generator_model": "claude-agent",
+    "metaphor": "Each vertical band of a storm is divided at the midpoint \u2014 the lower half turns to cold rain while the upper half stays warm updraft, with odd-height bands always giving one extra layer to the top.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 333,
+    "generator_model": "claude-agent",
+    "metaphor": "Each gem worn by the lead dancer cues the corps to take a completely different formation on the floor.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 333,
+    "generator_model": "claude-agent",
+    "metaphor": "The color of the cornerstone used in a building dictates which windows are walled up and which remain open.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 333,
+    "generator_model": "claude-agent",
+    "metaphor": "The spectral class of the star determines which positions in the surrounding nebula ignite and which stay dark.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 333,
+    "generator_model": "claude-agent",
+    "metaphor": "The color of the indicator dye dropped into a solution determines which wells in the reaction plate turn active and which remain inert.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 333,
+    "generator_model": "claude-agent",
+    "metaphor": "The color of the warning flag flown at the harbor determines which sectors of the sea chart are marked safe and which are closed.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 343,
+    "generator_model": "claude-agent",
+    "metaphor": "When two feuding actors share a stage mark, one instantly turns to stone while the other's role is written out of the play entirely.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 343,
+    "generator_model": "claude-agent",
+    "metaphor": "When two clashing materials meet at a joint, one hardens into permanent masonry while the other is struck from the blueprint entirely.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 343,
+    "generator_model": "claude-agent",
+    "metaphor": "When two colliding celestial bodies touch at their edges, one is flash-frozen into a dense remnant while the other is consumed and vanishes from the sky.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 346,
+    "generator_model": "claude-agent",
+    "metaphor": "Two dancers trace their paths across the same floor and wherever either one steps \u2014 no matter which \u2014 every footprint is repainted the same shade of rose.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 346,
+    "generator_model": "claude-agent",
+    "metaphor": "Two actors mark their blocking on the same stage grid, and every square either of them occupies is washed in a single pink follow-spot, erasing their distinctions.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 346,
+    "generator_model": "claude-agent",
+    "metaphor": "Two structural plans are drawn onto the same foundation grid and every room marked on either plan is rendered in the same warm terracotta tile.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 346,
+    "generator_model": "claude-agent",
+    "metaphor": "Two solutions are mixed in the same beaker and every reactive site from either compound turns the same uniform pink in the precipitate.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 346,
+    "generator_model": "claude-agent",
+    "metaphor": "Two storm cells sweep across the same region and every square touched by either system is colored the same blush on the merged radar map.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 354,
+    "generator_model": "claude-agent",
+    "metaphor": "Whichever flowerbed draws the most bees becomes the season's signature bloom.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 354,
+    "generator_model": "claude-agent",
+    "metaphor": "The understudy who shadows the most leading roles in rehearsal is the one handed the costume for opening night.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 354,
+    "generator_model": "claude-agent",
+    "metaphor": "The role with the most costume changes throughout the play is the one whose mask hangs center stage at curtain call.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 354,
+    "generator_model": "claude-agent",
+    "metaphor": "The neighborhood that surrounds the most doorways in the city becomes the district whose flag flies from the central tower.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 354,
+    "generator_model": "claude-agent",
+    "metaphor": "The planet that captures the most satellites into its gravity well earns the designation as the system's anchor.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 354,
+    "generator_model": "claude-agent",
+    "metaphor": "The pressure system that claims the most territory across the forecast map is declared the dominant weather pattern for the week.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 357,
+    "generator_model": "claude-agent",
+    "metaphor": "A dancer's ribbons, caught mid-twirl, snap outward to every wall of the hall, each ribbon reversing its color wherever it crosses a beam.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 357,
+    "generator_model": "claude-agent",
+    "metaphor": "Crack lines race from a struck windowpane to every frame edge, trading clear and frosted glass with each new fracture.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 357,
+    "generator_model": "claude-agent",
+    "metaphor": "Spectral emission lines streak from a star's core to the boundary of the spectrum plate, alternating bright and dark bands as they travel.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 357,
+    "generator_model": "claude-agent",
+    "metaphor": "Reaction fronts propagate from a catalyst seed to every wall of the vessel, switching between oxidized and reduced states as the wave advances.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 357,
+    "generator_model": "claude-agent",
+    "metaphor": "A cold front races from its origin to every coastline, alternating between squall and calm as it crosses each pressure band.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 357,
+    "generator_model": "claude-agent",
+    "metaphor": "A sous-chef's knife scores a dough sheet from center to every crust edge, alternating salted and unsalted strips with each pass.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 357,
+    "generator_model": "claude-agent",
+    "metaphor": "A bugler sounds a call that carries from the parade ground to every garrison wall, the note flipping between high and low with each beat.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 357,
+    "generator_model": "claude-agent",
+    "metaphor": "Trenches are dug from the command post to every perimeter wire, with each segment alternating between defensive and communication purpose.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 359,
+    "generator_model": "claude-agent",
+    "metaphor": "A dancer folds one arm across the body along the spine's centerline, and wherever the reaching hand lands it merges with whatever the standing arm already holds.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 359,
+    "generator_model": "claude-agent",
+    "metaphor": "A blueprint is folded along the building's axis of symmetry and pinned flat, so every marking on the right half now coincides with whatever was already drawn on the left.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 359,
+    "generator_model": "claude-agent",
+    "metaphor": "A binary star system collapses along its shared axis and the two stellar discs press together, each feature of one face overlapping the corresponding feature of the other.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 359,
+    "generator_model": "claude-agent",
+    "metaphor": "A chromatography strip is folded down its center crease and pressed flat, so the compounds on the right half transfer directly onto whatever the left half already bore.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 359,
+    "generator_model": "claude-agent",
+    "metaphor": "A weather map folds along the frontal boundary and the isobars on the eastern half collapse onto the western half, every pressure contour meeting its mirror.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 359,
+    "generator_model": "claude-agent",
+    "metaphor": "A score sheet folds along the double bar line and the notes on the right page press onto the left, every mark landing on top of whatever was already written there.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 364,
+    "generator_model": "claude-agent",
+    "metaphor": "In a constellation catalogue, only the asterism richest in red giant stars is traced and lifted out for the star atlas.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 364,
+    "generator_model": "claude-agent",
+    "metaphor": "A choreographer watches several ensembles and keeps only the troupe whose stage is most flooded with crimson spotlight.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 364,
+    "generator_model": "claude-agent",
+    "metaphor": "The architect reviews several floor plans and preserves only the wing where the most emergency exits are marked in red.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 364,
+    "generator_model": "claude-agent",
+    "metaphor": "A chemist examines several reaction trays and saves only the one where the indicator has turned red most extensively.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 364,
+    "generator_model": "claude-agent",
+    "metaphor": "The forecaster scans several radar frames and isolates only the storm cell whose warning zone glows deepest red.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 364,
+    "generator_model": "claude-agent",
+    "metaphor": "A bandleader auditions several sections and keeps only the ensemble where the most musicians are playing marked fortissimo passages.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 364,
+    "generator_model": "claude-agent",
+    "metaphor": "A gardener inspects several beds and harvests only the plot where the most blooms have ripened to their full red.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 364,
+    "generator_model": "claude-agent",
+    "metaphor": "A navigator surveys several anchorages and charts only the harbor where the most danger buoys burn red.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 379,
+    "generator_model": "claude-agent",
+    "metaphor": "A playwright pins a scene diagram to the corkboard and rotates the whole board a quarter-turn left, so every actor's blocking shifts to their new stage-left position.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 379,
+    "generator_model": "claude-agent",
+    "metaphor": "An architect turns the drafting table a quarter revolution counterclockwise and every room, corridor, and wall takes up its new orientation on the plan.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 379,
+    "generator_model": "claude-agent",
+    "metaphor": "A crystal is placed in a diffractometer cradle and rotated ninety degrees counterclockwise, repositioning every atom in the unit cell to its new angular address.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 379,
+    "generator_model": "claude-agent",
+    "metaphor": "A storm system is tracked as the pressure map turns one quadrant counterclockwise, carrying every front and rain band to a new position on the chart.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 379,
+    "generator_model": "claude-agent",
+    "metaphor": "A gardener rotates the cold frame a quarter-turn to the left at sunrise, and every seedling tray now faces a new compass point.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 379,
+    "generator_model": "claude-agent",
+    "metaphor": "A conductor spins the score stand one quarter-turn counterclockwise and every instrument's part now reads from a freshly angled page.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 379,
+    "generator_model": "claude-agent",
+    "metaphor": "A field commander wheels the entire battle map ninety degrees to the left, and every unit's position and facing rotates with it.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 380,
+    "generator_model": "claude-agent",
+    "metaphor": "Two dancers on opposite wings reach toward each other and the choreographer fills the gap between them with a shadow partner moving in the same line.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 380,
+    "generator_model": "claude-agent",
+    "metaphor": "A lighting designer stretches a darker gel strip across the gap between two spotlights aimed at each other from opposite sides of the stage.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 380,
+    "generator_model": "claude-agent",
+    "metaphor": "Two stars on opposite sides of a nebula illuminate it, and the denser gas between them glows a deeper hue where their light meets in the middle.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 380,
+    "generator_model": "claude-agent",
+    "metaphor": "Two electrodes facing each other across a solution draw a bridge of precipitate between them, darker than either electrode's own coating.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 380,
+    "generator_model": "claude-agent",
+    "metaphor": "Two storm cells bearing down on each other from east and west generate a squall line of deeper clouds in the corridor between them.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1002,
+    "generator_model": "claude-agent",
+    "metaphor": "Before the last bow, the performer uses every prop on stage \u2014 nothing is left behind in the wings when the curtain falls for good.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1002,
+    "generator_model": "claude-agent",
+    "metaphor": "Before vacating the building, the crew burns through every stockpile in the storeroom so that the empty structure holds nothing of value when they go.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1002,
+    "generator_model": "claude-agent",
+    "metaphor": "Before the observatory closes for good, the astronomer uses up every recorded exposure plate \u2014 not one image is left unprocessed when the dome is sealed.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1002,
+    "generator_model": "claude-agent",
+    "metaphor": "Before shutting down the lab, the chemist exhausts every prepared reagent in the cabinet \u2014 nothing reactive is left on the shelf when the door locks.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1002,
+    "generator_model": "claude-agent",
+    "metaphor": "Before the hurricane makes landfall, the shelter crew distributes every stored supply from the depot \u2014 the warehouse stands empty when the storm arrives.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1002,
+    "generator_model": "claude-agent",
+    "metaphor": "The soloist finishes every measure on the page before leaving the stage \u2014 not a note is left unplayed when the stand is folded away.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1002,
+    "generator_model": "claude-agent",
+    "metaphor": "The retreating squad consumes every field ration before abandoning the camp \u2014 the rucksacks are lighter for the march and nothing feeds the enemy.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1002,
+    "generator_model": "claude-agent",
+    "metaphor": "Before the gardener transplants, she eats the last fruit hanging on the vine \u2014 nothing on the trellis is left to rot once she is gone.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1002,
+    "generator_model": "claude-agent",
+    "metaphor": "The navigator uses every chart in the folio before abandoning the vessel \u2014 no page is left for the sea to ruin.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1017,
+    "generator_model": "claude-agent",
+    "metaphor": "When the lead dancer exits, the senior understudy absorbs the role of the newest chorus member while the mid-rank performer fades into the wings, unseen.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1017,
+    "generator_model": "claude-agent",
+    "metaphor": "When the load-bearing column is removed, the tallest remaining beam takes on the weight of the lowest support while the middle tier becomes structurally invisible in the new layout.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1017,
+    "generator_model": "claude-agent",
+    "metaphor": "When the parent star collapses, the most massive companion captures the orbit of the smallest body while the intermediate planet vanishes from the new gravitational picture.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1017,
+    "generator_model": "claude-agent",
+    "metaphor": "When the high-pressure system dissipates, the strongest remaining front absorbs the path of the weakest while the middle pressure band disappears from the forecast map.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1029,
+    "generator_model": "claude-agent",
+    "metaphor": "The actor crosses the dark stage toward a prop they cannot see, hitting their mark precisely because they know where the light will eventually find them.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1029,
+    "generator_model": "claude-agent",
+    "metaphor": "The surveyor sights toward a benchmark hidden behind the hill, placing the theodolite exactly where the line of sight will emerge when the obstruction clears.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1029,
+    "generator_model": "claude-agent",
+    "metaphor": "The telescope slews toward a planet still below the horizon, locking on the coordinates of something the night has not yet revealed.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1029,
+    "generator_model": "claude-agent",
+    "metaphor": "A titration approaches the endpoint hidden inside the cloudy solution, advancing toward the color change it cannot yet see but knows must be there.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1029,
+    "generator_model": "claude-agent",
+    "metaphor": "The storm chaser drives toward the wall cloud buried behind a curtain of rain, navigating to the place the funnel will appear before it has appeared.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1055,
+    "generator_model": "claude-agent",
+    "metaphor": "The dancer begins at the floor and leaps through successive levels of the stage, each phrase launching higher until the final pose crowns the arc at the very top of the space.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1055,
+    "generator_model": "claude-agent",
+    "metaphor": "A spotlight begins at the footlights and rises scene by scene until it blazes at the fly loft, each act elevating the drama toward its peak above the stage.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1055,
+    "generator_model": "claude-agent",
+    "metaphor": "A young star begins its life near the stellar nursery's base and climbs the main sequence until it burns brightest at the zenith of its luminosity.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1055,
+    "generator_model": "claude-agent",
+    "metaphor": "Bubbles nucleate at the bottom of the flask and rise through the solution, each ascending through successive layers until they break the surface at the top.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1055,
+    "generator_model": "claude-agent",
+    "metaphor": "A warm air mass builds from the ground upward, pushing through each altitude band until the towering thunderhead crowns the atmosphere at its highest reach.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1074,
+    "generator_model": "claude-agent",
+    "metaphor": "Dead reckoning begins with overlapping, contradictory position estimates that slowly converge as each bearing is checked until a single unambiguous fix locks onto the chart.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1074,
+    "generator_model": "claude-agent",
+    "metaphor": "The corps begins rehearsal in a tangle of competing rhythms and crossed paths, and through repetition the cacophony settles into a single synchronized phrase everyone can follow.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1074,
+    "generator_model": "claude-agent",
+    "metaphor": "An improvised scene begins with actors talking over each other until one clear dramatic beat silences the noise and the scene snaps into a single intelligible story.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1074,
+    "generator_model": "claude-agent",
+    "metaphor": "A building's structural model begins as a tangle of competing load paths, and through iterative analysis the diagram resolves into a clean hierarchy of forces everyone can read.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1074,
+    "generator_model": "claude-agent",
+    "metaphor": "The nebula begins as a roiling cloud of turbulent gas and dust, then gravity draws it inward until the chaos collapses into a single luminous point of order.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1074,
+    "generator_model": "claude-agent",
+    "metaphor": "A supersaturated solution held in suspension finally seeds a single crystal nucleus, and the swirling disorder of dissolved ions snaps into a precise, transparent lattice.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1074,
+    "generator_model": "claude-agent",
+    "metaphor": "The storm front breaks apart the cloud cover into a confusion of drifting fragments, but as the pressure equalizes the sky clears to a single unbroken blue.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1075,
+    "generator_model": "claude-agent",
+    "metaphor": "Every actor exits through the wings at the scene break except one, who stays center stage under the work light while the others change costumes in the dark.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1075,
+    "generator_model": "claude-agent",
+    "metaphor": "As the planet's moons migrate outward under tidal forces, one small body stays locked in a resonant orbit, permanently stationed where the others no longer linger.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1075,
+    "generator_model": "claude-agent",
+    "metaphor": "Every reagent in the solution is consumed by the reaction except one, which sits inert in the flask long after its companions have transformed and left.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1075,
+    "generator_model": "claude-agent",
+    "metaphor": "When the storm sweeps in, every leaf is torn from the branch except one, which clings to its position on the twig while the rest scatter across the yard.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1078,
+    "generator_model": "claude-agent",
+    "metaphor": "Two lines of dancers converge at center stage and the choreographer counts their combined number before deciding whether a third line must be added to complete the formation.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1078,
+    "generator_model": "claude-agent",
+    "metaphor": "Two casts merge for the final curtain call and the stage manager tallies the total heads precisely before signaling whether another bow is warranted.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1078,
+    "generator_model": "claude-agent",
+    "metaphor": "Two load-bearing walls are combined in the structural plan and their total support capacity tallied exactly before the engineer decides whether to add a third beam.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1078,
+    "generator_model": "claude-agent",
+    "metaphor": "Two asteroid clusters cross paths and their combined object count is tallied precisely before the observer logs whether they constitute a single swarm or require a new catalog entry.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1078,
+    "generator_model": "claude-agent",
+    "metaphor": "Two storm cells merge on the radar and the meteorologist counts their combined lightning strikes before deciding whether to issue a single warning or two separate alerts.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1079,
+    "generator_model": "claude-agent",
+    "metaphor": "Every dancer exits the stage as the lights intensify except one, who finds the single cool shadow at the edge of the spot and stays precisely there.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1079,
+    "generator_model": "claude-agent",
+    "metaphor": "Every actor wilts under the unrelenting stage lights except one, who steps into the one patch of backstage shadow and refuses to leave until the scene ends.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1079,
+    "generator_model": "claude-agent",
+    "metaphor": "Every material in the building bakes and expands under the summer sun except the one element nestled in permanent shade, which keeps its cool dimensions unchanged.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1079,
+    "generator_model": "claude-agent",
+    "metaphor": "Every moon in the inner system is blasted by stellar radiation except the one that slips into the planet's umbra, sheltered in perpetual eclipse.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1079,
+    "generator_model": "claude-agent",
+    "metaphor": "Every compound in the flask degrades under the harsh UV lamp except the one that sits in the opaque region of the vessel, protected from the light.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1079,
+    "generator_model": "claude-agent",
+    "metaphor": "Every parcel of land bakes in the drought except the one plot sitting in the lee of the ridge where afternoon clouds reliably break and rain falls.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1103,
+    "generator_model": "claude-agent",
+    "metaphor": "The choreographer marks every horizontal phrase across the stage in amber and every vertical phrase up and down the stage in red, then counts each kind separately.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1103,
+    "generator_model": "claude-agent",
+    "metaphor": "The set designer paints every horizontal flat a warm orange and every vertical flat a deep red so the director can immediately see how many of each plane frame the scene.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1103,
+    "generator_model": "claude-agent",
+    "metaphor": "The architect colors every horizontal floor plate orange and every vertical structural column red in the section drawing so the proportions of each system are immediately legible.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1103,
+    "generator_model": "claude-agent",
+    "metaphor": "The astronomer tints every ecliptic-latitude band orange and every meridian line red on the star chart so the two coordinate systems can be counted and compared at a glance.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1103,
+    "generator_model": "claude-agent",
+    "metaphor": "The chemist highlights every horizontal row of the periodic table in orange and every vertical group in red so the two organizing principles can be tallied independently.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1103,
+    "generator_model": "claude-agent",
+    "metaphor": "The meteorologist colors every east-west pressure band orange and every north-south wind corridor red on the synoptic chart so both flow directions are immediately countable.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1117,
+    "generator_model": "claude-agent",
+    "metaphor": "A dancer positioned far from the center of the stage commands a wider sweep of space, and the arc of each gesture grows longer the farther they stand from the wings.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1117,
+    "generator_model": "claude-agent",
+    "metaphor": "An actor placed far upstage commands a larger presence than one pressed against the footlights, the distance lending each gesture a gravity that close proximity never earns.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1117,
+    "generator_model": "claude-agent",
+    "metaphor": "A window set deeper into the building's facade casts a wider shadow into the room, the greater distance between glass and interior wall producing more shade than the flush-mounted pane ever could.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1117,
+    "generator_model": "claude-agent",
+    "metaphor": "An ion pulled farther from the nucleus carries a larger electric field around it, the greater separation allowing its influence to extend over more territory than its neighbor clustered close.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1117,
+    "generator_model": "claude-agent",
+    "metaphor": "A low-pressure system that wanders far from the coast pulls in a broader spiral of moisture, its reach expanding the greater the distance it travels from the shoreline.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1121,
+    "generator_model": "claude-agent",
+    "metaphor": "The soloist picks the position on stage that is surrounded by the largest empty gap between themselves and every other dancer, claiming the most uncrowded patch of floor.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1121,
+    "generator_model": "claude-agent",
+    "metaphor": "The actor chooses the seat in the green room that is farthest from every other occupied chair, settling into the corner where no elbow will intrude.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1121,
+    "generator_model": "claude-agent",
+    "metaphor": "The architect places the retreat pavilion at the point in the site plan that maximizes the open distance to every other structure, tucked where no neighbor crowds the view.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1121,
+    "generator_model": "claude-agent",
+    "metaphor": "A newly released molecule drifts to the region of the flask where the concentration of every other species is lowest, settling into the emptiest corner of the solution.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1121,
+    "generator_model": "claude-agent",
+    "metaphor": "The storm cell organizes itself at the point on the radar where it is most isolated from every other cell, drawing energy from the clear air that no neighbor is yet claiming.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1123,
+    "generator_model": "claude-agent",
+    "metaphor": "A seedling planted where every neighboring hedge casts the least shadow is the one the gardener never needs to shield.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1123,
+    "generator_model": "claude-agent",
+    "metaphor": "The dancer finds the one open square of stage where no spotlight or swinging arm can reach, and holds perfectly still there.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1123,
+    "generator_model": "claude-agent",
+    "metaphor": "The astronomer marks the patch of sky that sits at the maximum angular distance from every known interference source and trains the telescope there.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1123,
+    "generator_model": "claude-agent",
+    "metaphor": "The reactive compound is pipetted into the one well whose walls place it farthest from every corrosive neighbor in the grid.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1123,
+    "generator_model": "claude-agent",
+    "metaphor": "The storm shelter is built at the point on the plain that lies farthest from every converging wind corridor, beyond the reach of any one front.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1125,
+    "generator_model": "claude-agent",
+    "metaphor": "The sniper's scope pins whatever crosses its crosshairs; only the soldier who slips behind cover is free to change position.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1125,
+    "generator_model": "claude-agent",
+    "metaphor": "Spores caught in the open sunbeam calcify in place; only those drifting in shadow continue their metamorphosis.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1125,
+    "generator_model": "claude-agent",
+    "metaphor": "Whatever sits directly under the tasting spoon stays presented as-is; only the pot hidden behind the steam hood gets stirred and changed.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1125,
+    "generator_model": "claude-agent",
+    "metaphor": "Every note the conductor's baton points at is locked into the score; only the phrase buried in the inner voices is permitted to modulate.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1125,
+    "generator_model": "claude-agent",
+    "metaphor": "An actor frozen in the director's gaze holds the pose written in the script; the one who has stepped into the wings is free to switch costumes.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1125,
+    "generator_model": "claude-agent",
+    "metaphor": "The dancer caught in the audience's sightline must finish the phrase exactly as choreographed; only the one already behind the curtain can take up a different step.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1125,
+    "generator_model": "claude-agent",
+    "metaphor": "The column in the architect's elevation that faces the street facade is fixed in stone; only the column hidden in the interior courtyard can be rebuilt in a different material.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1125,
+    "generator_model": "claude-agent",
+    "metaphor": "Stars sitting directly on the observation meridian are logged as fixed references; only those tucked below the horizon are tracked as they drift.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1125,
+    "generator_model": "claude-agent",
+    "metaphor": "A molecule exposed at the surface of the solution is too stable to react; only the one buried in the interior, shielded from the solvent, undergoes substitution.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1125,
+    "generator_model": "claude-agent",
+    "metaphor": "The hilltop fully exposed to the wind stays scoured bare; only the valley tucked out of the prevailing current accumulates the snowdrift.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1126,
+    "generator_model": "claude-agent",
+    "metaphor": "The lead battalion overruns and absorbs the smallest outpost, painting it their color, while the mid-sized garrison between them simply stops appearing on the map.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1126,
+    "generator_model": "claude-agent",
+    "metaphor": "The alpha organism colonizes and converts the most vulnerable niche into its own territory, while the intermediate niche quietly disappears from the habitat chart.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1126,
+    "generator_model": "claude-agent",
+    "metaphor": "The tonic chord swallows the faintest passing tone and re-sounds it as its own, while the middle harmony dissolves into silence without resolution.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1126,
+    "generator_model": "claude-agent",
+    "metaphor": "The principal dancer sweeps the smallest soloist's phrase into her own variation while the corps member between them simply stops moving.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1126,
+    "generator_model": "claude-agent",
+    "metaphor": "The star role absorbs the understudy's lines until they become the lead's monologue, while the supporting player standing between them exits without a word.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1126,
+    "generator_model": "claude-agent",
+    "metaphor": "The grand arcade annexes the smallest alcove into its own bay, while the mid-span column between them is simply omitted from the final plan.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1126,
+    "generator_model": "claude-agent",
+    "metaphor": "The giant planet's gravitational field captures the smallest moonlet and draws it into its own orbit, while the intermediate body vanishes from the system diagram.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1126,
+    "generator_model": "claude-agent",
+    "metaphor": "The most concentrated reagent floods and overtakes the weakest solution, converting it entirely, while the intermediate concentration in between disappears from the gradient.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1126,
+    "generator_model": "claude-agent",
+    "metaphor": "The dominant pressure system sweeps in and engulfs the weakest low, repainting it as its own, while the middle front between them simply vanishes from the chart.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1131,
+    "generator_model": "claude-agent",
+    "metaphor": "Soldiers caught in no-man's land sprint toward the massed formation at the trench line and press inside it, leaving the open field behind them completely unoccupied.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1131,
+    "generator_model": "claude-agent",
+    "metaphor": "Scattered fish startle toward the school's tight knot and vanish inside the shoal, leaving the surrounding water bare and still.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1131,
+    "generator_model": "claude-agent",
+    "metaphor": "Loose herbs scattered across the counter roll toward the mound of chopped vegetables and nestle inside it, leaving the board swept clean.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1131,
+    "generator_model": "claude-agent",
+    "metaphor": "Resting notes across the staff slide toward the cluster chord and settle inside it, leaving the surrounding measures blank.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1131,
+    "generator_model": "claude-agent",
+    "metaphor": "Weeds scattered across the plot migrate toward the dense bed of established plants and disappear inside it, leaving the surrounding soil bare.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1131,
+    "generator_model": "claude-agent",
+    "metaphor": "Vessels adrift in open water steer toward the harbor cluster and anchor inside it, leaving the surrounding sea empty.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1131,
+    "generator_model": "claude-agent",
+    "metaphor": "Dancers scattered across the stage rush toward the tight ensemble group and fold into it, leaving the open floor behind them bare.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1131,
+    "generator_model": "claude-agent",
+    "metaphor": "Extras standing in the open wings rush onto the stage toward the standing tableau and merge into it, leaving the downstage apron empty.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1131,
+    "generator_model": "claude-agent",
+    "metaphor": "Freestanding columns scattered across the plan are drawn toward the colonnaded cluster and absorbed into the portico, leaving the surrounding courtyard open.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1131,
+    "generator_model": "claude-agent",
+    "metaphor": "Stray asteroids drifting in open space are pulled by gravity toward the dense cluster and captured inside it, leaving the surrounding void clear.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1131,
+    "generator_model": "claude-agent",
+    "metaphor": "Free-floating molecules diffuse toward the dense solute cluster and aggregate inside it, leaving the surrounding solvent empty.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1131,
+    "generator_model": "claude-agent",
+    "metaphor": "Isolated clouds scattered across the sky are drawn by the low-pressure center toward the main storm mass and absorbed into it, leaving the surrounding sky clear.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1132,
+    "generator_model": "claude-agent",
+    "metaphor": "Each actor inherits the costume of the performer one position ahead of them as the cast rotates one step around the circular stage.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1132,
+    "generator_model": "claude-agent",
+    "metaphor": "Each room in the ring of chambers takes on the furnishing of the room that previously occupied the next position clockwise, as the whole plan rotates one bay.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1132,
+    "generator_model": "claude-agent",
+    "metaphor": "Each planet steps one position forward along the orbital ring and inherits the designation of the body that preceded it there.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1132,
+    "generator_model": "claude-agent",
+    "metaphor": "Each flask in the circular rack rotates one station and takes on the reagent label of the flask that occupied that position before it.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1134,
+    "generator_model": "claude-agent",
+    "metaphor": "The dancer begins at the center of the stage and launches four diagonal lines of movement outward, each successive step landing one beat farther from the origin.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1134,
+    "generator_model": "claude-agent",
+    "metaphor": "The director places the lead actor at the center mark and waves the ensemble outward in four diagonal spokes, each row one step farther from the hub.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1134,
+    "generator_model": "claude-agent",
+    "metaphor": "A warm front erupts from a central low and pushes outward in alternating diagonal bands, each successive band one cell farther from the eye.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1134,
+    "generator_model": "claude-agent",
+    "metaphor": "A crystal nucleates at a single seed point and deposits successive layers in four diagonal directions, each ring one lattice-step wider than the last.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1135,
+    "generator_model": "claude-agent",
+    "metaphor": "The dancer sweeps every edge of the stage looking for the one gap in the ring of bodies, and the moment she spots it she pivots and drives through it.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1135,
+    "generator_model": "claude-agent",
+    "metaphor": "The architect tests every wall of the enclosed courtyard for an opening and, finding the single unblocked doorway, traces the exit corridor straight through it.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1135,
+    "generator_model": "claude-agent",
+    "metaphor": "The probe surveys every sector of the debris field for a clear trajectory and, spotting the one unobstructed lane, commits the burn to pass through it.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1135,
+    "generator_model": "claude-agent",
+    "metaphor": "The molecule tests every bond angle for steric clearance and, finding the one unhindered approach vector, slides through that single channel to complete the reaction.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1135,
+    "generator_model": "claude-agent",
+    "metaphor": "The storm system probes every quadrant of the pressure barrier surrounding it, and the instant it finds the one low-gradient corridor it funnels through there and escapes.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1147,
+    "generator_model": "claude-agent",
+    "metaphor": "The dancer who has already claimed the two neighboring positions in the formation is awarded the contested center spot without an audition.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1147,
+    "generator_model": "claude-agent",
+    "metaphor": "The director gives the disputed role to whichever actor already holds both flanking parts in the ensemble, since the scene belongs to the one who already surrounds it.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1147,
+    "generator_model": "claude-agent",
+    "metaphor": "The contested lot between two buildings is awarded to whichever owner already holds the parcels on both sides, since they already form the enclosing walls.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1147,
+    "generator_model": "claude-agent",
+    "metaphor": "The disputed orbital zone between two bodies is assigned to whichever one already commands the gravitational wells on both flanking sides.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1147,
+    "generator_model": "claude-agent",
+    "metaphor": "The ambiguous compound in the reaction series takes the identity of whichever reagent already occupies both neighboring steps in the chain.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1147,
+    "generator_model": "claude-agent",
+    "metaphor": "The contested pressure zone between two fronts is claimed by whichever system already dominates the cells on both adjacent sides.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1147,
+    "generator_model": "claude-agent",
+    "metaphor": "The plant that has already spread its roots into both neighboring plots is the one that wins the untended patch between them.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1147,
+    "generator_model": "claude-agent",
+    "metaphor": "The contested dish at the center of the table goes to the chef whose sauce already covers the two platters on either side of it.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1147,
+    "generator_model": "claude-agent",
+    "metaphor": "The undecided measure in the score is assigned the key of whichever theme already occupies the passages immediately before and after it.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1147,
+    "generator_model": "claude-agent",
+    "metaphor": "The unassigned plot of ground between two garden beds belongs to whichever plant has already established itself in both neighboring beds.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1153,
+    "generator_model": "claude-agent",
+    "metaphor": "A choreographer layers movement phrase after movement phrase until a held pause signals the end; only the gestures that preceded that stillness are performed in the final piece.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1153,
+    "generator_model": "claude-agent",
+    "metaphor": "A director runs through the blocking scene by scene until the stage manager calls a stop; every position rehearsed before that call is set into the script, and nothing after counts.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1153,
+    "generator_model": "claude-agent",
+    "metaphor": "A mason lays courses of brick one by one until a capstone is placed; the completed wall includes every course laid before the capstone, and the capstone itself marks where the counting ends.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1153,
+    "generator_model": "claude-agent",
+    "metaphor": "An observer logs each planet as it rises above the horizon until a solar flare interrupts the watch; only the bodies recorded before the flare appear in the final catalog.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1153,
+    "generator_model": "claude-agent",
+    "metaphor": "A titration proceeds drop by drop through each color change until the solution turns permanently clear; only the reagents added before that endpoint are counted in the result.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1153,
+    "generator_model": "claude-agent",
+    "metaphor": "Storm cells build one after another along the front until a wall cloud finally forms; only the cells that developed before that wall cloud define the squall line that matters.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1154,
+    "generator_model": "claude-agent",
+    "metaphor": "A dancer follows an improvised path across the stage floor and the chalk smear left by their moving feet is the only record of where they went.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1154,
+    "generator_model": "claude-agent",
+    "metaphor": "A spotlight operator chases a performer across a dark stage, and the lit floor behind them traces every twist and turn of the route taken.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1154,
+    "generator_model": "claude-agent",
+    "metaphor": "An inspector walks every corridor of the building, and the route marked on the blueprint afterward shows exactly which passages were traveled and in what order.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1154,
+    "generator_model": "claude-agent",
+    "metaphor": "A comet sweeps through the inner solar system and the arc of its tail burned across the sky is the only evidence of the path it actually traveled.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1154,
+    "generator_model": "claude-agent",
+    "metaphor": "A dye molecule diffuses through a gel matrix and the stained trail it leaves behind is the only record of the path it wandered through the medium.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1154,
+    "generator_model": "claude-agent",
+    "metaphor": "A funnel cloud skips erratically across the landscape, and the debris field left on the ground maps every segment of the path it actually touched down.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1156,
+    "generator_model": "claude-agent",
+    "metaphor": "A dancer exits the stage and returns to take the same position they held before the intermission \u2014 every limb exactly where it was, as though the break never happened.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1156,
+    "generator_model": "claude-agent",
+    "metaphor": "The curtain falls between acts and rises again on a stage where every prop is exactly as the audience last saw it, unchanged by the interval.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1156,
+    "generator_model": "claude-agent",
+    "metaphor": "A renovation crew covers a historic mosaic floor with protective sheeting, and when the project is complete and the sheeting is removed, every tile is exactly where it was.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1156,
+    "generator_model": "claude-agent",
+    "metaphor": "A star enters a quiescent phase and dims from view, then brightens again to its original magnitude \u2014 every spectral line identical to what was measured before the dimming.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1156,
+    "generator_model": "claude-agent",
+    "metaphor": "A catalyst enters a reaction, speeds it along, and emerges at the end structurally identical to how it began \u2014 nothing about it consumed or altered by what it facilitated.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1156,
+    "generator_model": "claude-agent",
+    "metaphor": "A fog bank rolls in off the water and obscures the coastline, then lifts hours later to reveal every landmark exactly where it stood before the mist arrived.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1168,
+    "generator_model": "claude-agent",
+    "metaphor": "A dancer steps toward each partner in the ensemble, and whoever they touch joins their motion, rippling the original movement outward until the whole floor shares the same phrase.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1168,
+    "generator_model": "claude-agent",
+    "metaphor": "A method actor enters the scene and, one by one, pulls each other performer into their emotional register until the entire stage has been overtaken by the same mood.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1168,
+    "generator_model": "claude-agent",
+    "metaphor": "Damp spreads through a stone wall block by block from the first saturated course, and every adjacent block it reaches is drawn into the same waterlogged state.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1168,
+    "generator_model": "claude-agent",
+    "metaphor": "A rogue planet drifts through a star cluster and gravitationally captures each body it passes, growing its retinue one object at a time as it advances.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1168,
+    "generator_model": "claude-agent",
+    "metaphor": "A chain reaction propagates outward from the first excited molecule, converting each neighboring particle it contacts into the same activated state until the cascade consumes the medium.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1168,
+    "generator_model": "claude-agent",
+    "metaphor": "A wildfire driven by dry winds advances cell by cell across the landscape, consuming each adjacent patch of fuel and converting it into the same smoldering ruin.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1175,
+    "generator_model": "claude-agent",
+    "metaphor": "A dancer crossing the floor skips the partner who is already occupied and pivots toward whichever available partner stands nearest on the path.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1175,
+    "generator_model": "claude-agent",
+    "metaphor": "An actor misses their cue at one wing and immediately moves to whichever open entrance is closest, making their mark without hesitation.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1175,
+    "generator_model": "claude-agent",
+    "metaphor": "A crew abandons a crumbling scaffolding section and immediately reassembles at the nearest intact section still waiting to be worked.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1175,
+    "generator_model": "claude-agent",
+    "metaphor": "A probe abandons its trajectory toward a storm-obscured moon and redirects to whichever clear target in the system requires the shortest delta-v to reach.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1175,
+    "generator_model": "claude-agent",
+    "metaphor": "A reagent that fails to bind at its primary site migrates to whichever available active site on the molecule is geometrically closest and docks there instead.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1175,
+    "generator_model": "claude-agent",
+    "metaphor": "A front stalls over a saturated watershed and diverts its moisture toward whichever adjacent basin is still dry and closest in bearing.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1176,
+    "generator_model": "claude-agent",
+    "metaphor": "Each section of the orchestra plays its part once, and when that section's passage ends the players in those chairs sit silently for the rest of the piece, their contribution spent.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1176,
+    "generator_model": "claude-agent",
+    "metaphor": "Each candle on the set is lit for one scene, and when that scene concludes it is snuffed \u2014 the candelabra grows dimmer with each act as the supply is drawn down.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1176,
+    "generator_model": "claude-agent",
+    "metaphor": "Each load-bearing column is fitted with a strain gauge that registers one increment of load, and as floors are added above, the gauge on each column ticks down by exactly the weight it absorbed.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1176,
+    "generator_model": "claude-agent",
+    "metaphor": "Each fuel tank on the spacecraft is drawn upon for one burn, and after ignition the remaining propellant in that tank is permanently less, reduced by exactly the mass the engine consumed.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1176,
+    "generator_model": "claude-agent",
+    "metaphor": "Each reagent vial in the assay is sampled once per experiment, and the volume remaining in each vial afterward is precisely what was there before minus the aliquot withdrawn.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1176,
+    "generator_model": "claude-agent",
+    "metaphor": "Each reservoir feeds the irrigation network for one growing season, and when harvest arrives the water level in each basin sits exactly as many inches lower as the season drew from it.",
+    "source_domain": "weather"
+  },
+  {
+    "task_id": 1176,
+    "generator_model": "claude-agent",
+    "metaphor": "Each munitions cache is drawn upon for a single engagement, and after the action the count in every depot reflects exactly what was expended \u2014 neither restocked nor untouched.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 14,
+    "generator_model": "claude-agent",
+    "metaphor": "Each instrument in the ensemble calls for a different response from the orchestra \u2014 the trumpet summons brass fanfares at its corners, the bassoon pulls double notes above and below, while the flute and oboe sit silent, needing no accompaniment.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 18,
+    "generator_model": "claude-agent",
+    "metaphor": "A cell divides into four daughters, each inheriting the parent's organelles but sprouting new cilia at every diagonal corner where they touch the membrane.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 18,
+    "generator_model": "claude-agent",
+    "metaphor": "A theme stated once in a small room is repeated in four corners of a concert hall, and at every restatement the harmony adds a ghostly grace note touching each shoulder of the melody.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 18,
+    "generator_model": "claude-agent",
+    "metaphor": "Cuttings from a single plant are rooted in four beds of a doubled garden, and each cutting reaches diagonal tendrils into the soil at its corners.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 18,
+    "generator_model": "claude-agent",
+    "metaphor": "A lighthouse signal is relayed by four mirror stations across a doubled sea chart, and each relay post casts a smaller marker light diagonally into the dark at its four flanks.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 37,
+    "generator_model": "claude-agent",
+    "metaphor": "Each clutch of identical eggs found in the nest is tallied, and for every clutch discovered a single egg is added to the counting tray on the left.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 37,
+    "generator_model": "claude-agent",
+    "metaphor": "Every matching set of ingredient portions measured out on the counter earns one ladle of stock poured into the pot waiting at the edge of the stove.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 37,
+    "generator_model": "claude-agent",
+    "metaphor": "Each full repetition of the four-beat rhythm pattern heard in the piece adds one struck note to the running tally held open in the bass.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 98,
+    "generator_model": "claude-agent",
+    "metaphor": "The dormant bulbs scattered across the bed show you exactly where the one missing bulb belongs \u2014 the gap closes when the ground is whole.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 98,
+    "generator_model": "claude-agent",
+    "metaphor": "The vaulted ceiling is complete everywhere except the one keystone still lying on the scaffold \u2014 once set in place the arch becomes load-bearing.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 103,
+    "generator_model": "claude-agent",
+    "metaphor": "A scout's report of two enemy battalions tells headquarters which flank each force occupies \u2014 command then deploys two full divisions at triple scale, positioning them flank to flank exactly as the scouts described.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 103,
+    "generator_model": "claude-agent",
+    "metaphor": "Two tissue samples taken from opposite corners of a petri dish reveal which quadrants are colonized; the lab then cultures two full colonies at triple density, pressing them corner to corner in the expanded dish.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 103,
+    "generator_model": "claude-agent",
+    "metaphor": "A thumbnail sketch shows two dough rounds touching at one corner \u2014 scaled up to the full baking sheet, two large rounds are placed corner-to-corner in precisely the positions the sketch indicated.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 103,
+    "generator_model": "claude-agent",
+    "metaphor": "A two-bar motif ending on a corner note hints at the movement's architecture \u2014 expanded to full orchestral scale, the two main themes enter side by side, sharing only the single pivot note between them.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 103,
+    "generator_model": "claude-agent",
+    "metaphor": "Two seedling trays placed corner to corner in the cold frame show the gardener where to transplant two full beds in the expanded garden, touching at exactly that shared corner.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 103,
+    "generator_model": "claude-agent",
+    "metaphor": "A miniature chart marks two reef systems meeting at a single point \u2014 the navigator's full-scale chart places two large hazard zones corner to corner at that same bearing, tripling the area each occupies.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 179,
+    "generator_model": "claude-agent",
+    "metaphor": "Four battalions hold separate quadrants of the field; when ordered to consolidate, each advances in turn onto the same ground, the later arrivals filling only the positions the earlier troops left open.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 179,
+    "generator_model": "claude-agent",
+    "metaphor": "Four species of lichen colonize the same rock face in sequence, each spreading only into the bare patches the previous colony left uncovered, until the surface is fully claimed.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 179,
+    "generator_model": "claude-agent",
+    "metaphor": "Four sauces are ladled onto a plate one after another, each new sauce filling only the uncovered white porcelain that the previous layers left bare.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 179,
+    "generator_model": "claude-agent",
+    "metaphor": "Four instrumental voices enter in succession on the same staff, each new voice sounding only in the rests the earlier voices left silent, until no measure goes unfilled.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 179,
+    "generator_model": "claude-agent",
+    "metaphor": "Four successive plantings fill the same bed in waves, each new crop taking root only in the gaps the previous planting left fallow, until every square of soil is covered.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 179,
+    "generator_model": "claude-agent",
+    "metaphor": "Four survey parties chart the same territory in overlapping passes, each party marking only the ground the previous teams left blank on the composite map.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 179,
+    "generator_model": "claude-agent",
+    "metaphor": "Four structural facades are superimposed on the same elevation drawing in sequence, each new facade showing through only where the previous ones left the wall undrawn.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 179,
+    "generator_model": "claude-agent",
+    "metaphor": "Four nebulae drift into alignment, each one visible only through the dark voids the others leave between their gas clouds, together composing a single luminous field.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 182,
+    "generator_model": "claude-agent",
+    "metaphor": "Four opposing armies march from the corners of the field toward the center, and where their supply lines cross the contested ground takes on the colors of whoever arrived from that direction.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 182,
+    "generator_model": "claude-agent",
+    "metaphor": "Four root systems growing from the corners of a clearing intertwine at the center, and the pattern of their interlocking threads maps which root came from which direction.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 182,
+    "generator_model": "claude-agent",
+    "metaphor": "Four corner flavors \u2014 sweet, sour, bitter, salt \u2014 bleed into the center of the dish during roasting, weaving a pattern in the middle that reflects each flavor's original position.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 182,
+    "generator_model": "claude-agent",
+    "metaphor": "Four instruments stationed at the corners of the stage project their tones toward the center, and the interference pattern of their overlapping sound waves determines the texture that fills the middle of the hall.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 182,
+    "generator_model": "claude-agent",
+    "metaphor": "Four compass bearings converge on a central waypoint, and the crossing of their plotted lines traces a pattern in the middle of the chart that reflects the angle each approach took.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 182,
+    "generator_model": "claude-agent",
+    "metaphor": "Four reagents placed at the corners of a reaction chamber diffuse toward the center, and the precipitate that forms in the middle inherits distinct banding from each source's concentration gradient.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 189,
+    "generator_model": "claude-agent",
+    "metaphor": "A single sustained note first heard at the center of the phrase travels outward measure by measure, carrying its pitch unchanged until it reaches the final bar line at the edge.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 189,
+    "generator_model": "claude-agent",
+    "metaphor": "A runner sent from the center of the garden walks the diagonal path to the far corner of the fence, pressing seeds of the same color into the earth at every step along the way.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 189,
+    "generator_model": "claude-agent",
+    "metaphor": "A bearing set at the helm carries the vessel on a fixed diagonal heading until the hull meets the far shore, leaving a wake of the same color all the way across the chart.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 194,
+    "generator_model": "claude-agent",
+    "metaphor": "A regiment's formation is replicated at every platoon level \u2014 each platoon arranges its squads in the same pattern the regiment uses for its platoons, so the full force mirrors itself at every scale.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 194,
+    "generator_model": "claude-agent",
+    "metaphor": "A fern's frond is composed of smaller fronds, each of which repeats the same branching pattern at a finer scale, so the whole leaf contains miniature copies of itself within every leaflet.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 194,
+    "generator_model": "claude-agent",
+    "metaphor": "A layered cake is divided into sections, and each section is itself a miniature version of the full cake's arrangement of flavors, so every slice contains the complete composition at a smaller scale.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 194,
+    "generator_model": "claude-agent",
+    "metaphor": "A symphony's large-scale structure \u2014 exposition, development, recapitulation \u2014 is echoed within each movement's subsections, so the same three-part shape appears again inside every passage that seemed to be just one part.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 194,
+    "generator_model": "claude-agent",
+    "metaphor": "A garden is divided into plots, and each plot is itself laid out as a miniature garden with the same arrangement of beds, so the overall plan repeats at the scale of every sub-section.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 194,
+    "generator_model": "claude-agent",
+    "metaphor": "A nautical chart of an archipelago reveals that each island, when charted closely, contains its own smaller archipelago arranged in the same pattern as the whole chain.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 205,
+    "generator_model": "claude-agent",
+    "metaphor": "A scout finds the enemy's flag planted in the field and advances the full company to surround it, centering the formation exactly on that marker.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 205,
+    "generator_model": "claude-agent",
+    "metaphor": "A spore lands on a neutral substrate and germinates into the full colonial pattern it carries encoded within itself, with the landing point becoming the colony's center.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 205,
+    "generator_model": "claude-agent",
+    "metaphor": "A blank template sits on the prep counter until the chef stamps the full mold down onto it, centering the pattern precisely over the waiting square of plain dough.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 205,
+    "generator_model": "claude-agent",
+    "metaphor": "A rest in the score marks a silent beat around which the full melodic phrase assembles itself, that pause becoming the exact midpoint of the realized pattern.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 205,
+    "generator_model": "claude-agent",
+    "metaphor": "A bare patch of soil in the border marks where the gardener centers the transplanted arrangement, pressing the full cluster of plants into the earth with that open spot at its heart.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 205,
+    "generator_model": "claude-agent",
+    "metaphor": "A waypoint marked on the chart draws the navigator to anchor the full survey grid there, so that featureless spot becomes the center of the entire mapped pattern.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 211,
+    "generator_model": "claude-agent",
+    "metaphor": "A nerve impulse fires down an axon and halts the moment it reaches the synaptic terminal, but a hormone released into open bloodstream travels until it hits the body's outermost wall.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 211,
+    "generator_model": "claude-agent",
+    "metaphor": "A runner vine creeps along the trellis until it finds the wooden post and stops, while an untethered tendril keeps climbing until it reaches the fence line at the garden's edge.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 211,
+    "generator_model": "claude-agent",
+    "metaphor": "A ship sailing inland waters drops anchor when it reaches the lock gate, but a vessel on open sea does not heave to until it touches the harbor breakwater at the coast.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 309,
+    "generator_model": "claude-agent",
+    "metaphor": "The perimeter of defenders around a fortress determines how large the garrison's interior must be \u2014 count the sentinels, and that number dictates every square of ground held within.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 309,
+    "generator_model": "claude-agent",
+    "metaphor": "The ring of receptor proteins lining a cell membrane sets the capacity of the cell itself \u2014 tally the receptors and the interior swells or shrinks to match that count.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 309,
+    "generator_model": "claude-agent",
+    "metaphor": "The number of pastry rings crimped around a pie's edge decides the diameter of every layer beneath \u2014 count the crimps and cut the filling to fit.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 309,
+    "generator_model": "claude-agent",
+    "metaphor": "The notes encircling the opening phrase of a round set the measure length for every voice that follows \u2014 count the notes in the frame and every part stretches to fill exactly that span.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 309,
+    "generator_model": "claude-agent",
+    "metaphor": "The border plants ringing a bed determine how much soil lies within \u2014 tally the perimeter flowers and the plot inside expands or contracts to hold precisely that measure.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 309,
+    "generator_model": "claude-agent",
+    "metaphor": "A lighthouse's signal range marks the boundary of a chart square \u2014 count those beacon flashes and redraw the sea-lane to span exactly that distance in every direction.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 357,
+    "generator_model": "claude-agent",
+    "metaphor": "Spotlights already crossing the stage are chased to every wing and fly-tower, each beam switching color as it passes the next lamp \u2014 the alternating gels obey the sequence already rehearsed at center stage.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 359,
+    "generator_model": "claude-agent",
+    "metaphor": "A fresh pasta sheet is folded in half along the floured crease, one layer pressing flat against the other so the edges beside the fold meet and merge into a single doubled thickness.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 379,
+    "generator_model": "claude-agent",
+    "metaphor": "A formation of dancers pivots a quarter-turn to the left on the conductor's cue, every position rotating smoothly so the shape that faced the audience now opens toward the wings.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1002,
+    "generator_model": "claude-agent",
+    "metaphor": "Before the stock is moved from the stove, the cook ladles out one full portion from the pot \u2014 the vessel is depleted by exactly that serving before it travels anywhere.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1002,
+    "generator_model": "claude-agent",
+    "metaphor": "A dancer steals one move from the center of the stage before retreating to the wings \u2014 the repertoire shrinks by that single step the moment the body leaves its starting mark.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1017,
+    "generator_model": "claude-agent",
+    "metaphor": "When the commanding officer withdraws, the senior lieutenant assumes control of the raw recruit's post while the sergeant \u2014 neither highest nor lowest \u2014 holds position unseen in the middle ground.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1017,
+    "generator_model": "claude-agent",
+    "metaphor": "When the queen cell dies, the largest worker bee takes over tending the smallest larva, while the mid-caste nurses carry on unobserved in the brood chamber's interior.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1017,
+    "generator_model": "claude-agent",
+    "metaphor": "When the head chef steps out, the sous-chef takes charge of the apprentice's station while the line cook in between keeps working, invisible behind the pass.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1017,
+    "generator_model": "claude-agent",
+    "metaphor": "When the captain leaves the bridge, the first mate assumes the helm of the smallest tender while the second officer \u2014 ranked between the two \u2014 stands an unmarked watch below.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1017,
+    "generator_model": "claude-agent",
+    "metaphor": "When the director exits the wings, the lead actor absorbs the understudy's blocking while the supporting player in the middle of the cast list holds their mark without acknowledgment.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1017,
+    "generator_model": "claude-agent",
+    "metaphor": "When the parent star dims, the largest planet draws the smallest moon into its shadow while the intermediate satellite continues its orbit unlit and unnoticed.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1029,
+    "generator_model": "claude-agent",
+    "metaphor": "The artillery battery trains its guns on a target concealed behind the ridge, advancing rounds toward a position no gunner can directly sight.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1029,
+    "generator_model": "claude-agent",
+    "metaphor": "The cook reaches into the opaque brine barrel for the pickle that cannot be seen, hand moving toward the hidden object by feel alone.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1029,
+    "generator_model": "claude-agent",
+    "metaphor": "A musician plays toward the rest held in silence \u2014 the phrase reaches out to meet the note that has not yet sounded, drawn by the shape of what's missing.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1029,
+    "generator_model": "claude-agent",
+    "metaphor": "A root extends toward a buried water table it cannot sense directly, the tendril pushing through dark soil toward moisture that lies beyond its reach.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1029,
+    "generator_model": "claude-agent",
+    "metaphor": "A ship steers toward a port that has not yet risen above the horizon, the helmsman holding course for landfall no eye aboard can yet confirm.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1029,
+    "generator_model": "claude-agent",
+    "metaphor": "A dancer reaches into the dark wing of the stage toward a partner who has not yet entered, the arm extending into the unseen space where the duet will complete itself.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1075,
+    "generator_model": "claude-agent",
+    "metaphor": "While the battalion advances, one soldier is ordered to hold the position \u2014 the one who cannot move is the one assigned to watch.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1075,
+    "generator_model": "claude-agent",
+    "metaphor": "As mitosis pulls the cell apart, one organelle anchored to the membrane stays fixed while the rest of the cytoplasm divides around it.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1075,
+    "generator_model": "claude-agent",
+    "metaphor": "Every dish leaves the kitchen hot except the one set aside to hold the counter while the chef is away \u2014 it remains at the station, unchanged, marking the place.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1075,
+    "generator_model": "claude-agent",
+    "metaphor": "Every instrument resolves its phrase and moves to the next chord except the pedal tone, which holds its single note as the harmony shifts above it.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1075,
+    "generator_model": "claude-agent",
+    "metaphor": "All the seedlings in the tray are transplanted to the bed \u2014 all except the one left in place to mark where the row begins, rooted in the original soil.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1075,
+    "generator_model": "claude-agent",
+    "metaphor": "The fleet changes bearing for the new heading, but one vessel stays on station \u2014 the one anchored in place while the others tack away is the one keeping the watch.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1075,
+    "generator_model": "claude-agent",
+    "metaphor": "Every beam in the frame is shifted to level the structure, except the keystone \u2014 the one that cannot move is the one that everything else is measured against.",
+    "source_domain": "architecture"
+  },
+  {
+    "task_id": 1078,
+    "generator_model": "claude-agent",
+    "metaphor": "When two enzyme concentrations combine and exceed the cell's threshold, the overflow triggers a cascade in the next signaling layer \u2014 the excess does not vanish, it propagates upward.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1078,
+    "generator_model": "claude-agent",
+    "metaphor": "When two measures of leavening are combined and the total surpasses what the batter can hold, the excess rises into the layer above \u2014 the recipe carries the surplus to the next tier.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1078,
+    "generator_model": "claude-agent",
+    "metaphor": "When two voices singing in unison exceed the measure's beat count, the overage is carried forward into the next bar, the rhythm absorbing the remainder where it spills past the line.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1078,
+    "generator_model": "claude-agent",
+    "metaphor": "When two reagents combine and the product exceeds the vessel's valence capacity, the excess electrons are donated to the next bond \u2014 the overflow is not lost but transferred to the adjacent shell.",
+    "source_domain": "chemistry"
+  },
+  {
+    "task_id": 1079,
+    "generator_model": "claude-agent",
+    "metaphor": "A mycologist maps which log positions host a fungal bloom and which neighbor slots hold bracket fungi on either side \u2014 the slot with no brackets flanking it is where the spore lands.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1079,
+    "generator_model": "claude-agent",
+    "metaphor": "A line of garnished plates passes the expeditor's window and the one dish missing its sauce \u2014 with neither a drizzle before it nor a pool after \u2014 is the one that gets the ladle.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1079,
+    "generator_model": "claude-agent",
+    "metaphor": "Across a score of choral parts, the one voice-line that has no neighbor singing in the same phrase bracket above or below is the one the conductor adds a pitch mark to.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1079,
+    "generator_model": "claude-agent",
+    "metaphor": "A row of planting stakes marks the beds already bordered by edging stones on both sides; the stake that stands between two bare patches of earth is where the gardener drives the new marker.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1079,
+    "generator_model": "claude-agent",
+    "metaphor": "A helmsman reads the buoy line and finds the one channel marker flanked by neither a red right-return nor a green can on either side \u2014 that is the waypoint he plots on the chart.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1103,
+    "generator_model": "claude-agent",
+    "metaphor": "A skirmish line counts how many assault waves swept east-to-west versus how many artillery salvos fell north-to-south across the contested ground.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1103,
+    "generator_model": "claude-agent",
+    "metaphor": "A field ecologist tallies how many transect belts run across the meadow horizontally and how many quadrat columns cut down it vertically in the survey grid.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1103,
+    "generator_model": "claude-agent",
+    "metaphor": "The prep cook scores the dough with lateral cuts in one color and vertical slashes in another, then counts each set to know how many strips and how many planks the recipe yields.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1103,
+    "generator_model": "claude-agent",
+    "metaphor": "A conductor tallies the bars where the brass enters as a horizontal swell across the ensemble and the passages where the strings cut vertically through the texture like a sustained column of tone.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1103,
+    "generator_model": "claude-agent",
+    "metaphor": "The groundskeeper counts how many hedge rows run the width of the garden and how many stake columns run its length before writing the tally on the plot plan.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1103,
+    "generator_model": "claude-agent",
+    "metaphor": "A pilot counts the parallels of latitude crossing the chart from left to right and the meridians of longitude cutting top to bottom, recording each total to fix the grid reference.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1121,
+    "generator_model": "claude-agent",
+    "metaphor": "Among several receptor sites scattered along a membrane, the one with no competing ligand crowding its immediate neighbors is where the enzyme docks and activates.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1121,
+    "generator_model": "claude-agent",
+    "metaphor": "When several resting ladles hang above the stove, the cook reaches for the one whose hook sits farthest from every other hanging utensil \u2014 the least contested peg on the rail.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1121,
+    "generator_model": "claude-agent",
+    "metaphor": "A nebula spawns proto-stellar condensations and the one that forms in the most sparsely populated quarter of the cloud, well clear of other gravity wells, collapses first into a stable star.",
+    "source_domain": "astronomy"
+  },
+  {
+    "task_id": 1132,
+    "generator_model": "claude-agent",
+    "metaphor": "Gene expression sweeps around a regulatory loop and each transcription factor inherits the activation state of the one that fired just before it in the cycle.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1132,
+    "generator_model": "claude-agent",
+    "metaphor": "A round of instruments takes up a canon and each player enters one beat later, so every voice carries the melody that the previous voice just left behind.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1132,
+    "generator_model": "claude-agent",
+    "metaphor": "Partners revolve in a circle dance and at each quarter-turn every dancer steps into the spot just vacated, wearing the role \u2014 leader or follower \u2014 of whoever stood there before.",
+    "source_domain": "dance"
+  },
+  {
+    "task_id": 1135,
+    "generator_model": "claude-agent",
+    "metaphor": "A scout probes every segment of the enemy perimeter for a gap in coverage and, finding the one unwatched stretch, slips a runner through while the flanking signal stays where it was posted.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1135,
+    "generator_model": "claude-agent",
+    "metaphor": "A burrowing animal presses against every wall of its pen and escapes through the single loose board, emerging on the outside exactly where the gap opens.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1135,
+    "generator_model": "claude-agent",
+    "metaphor": "Pressure builds inside a sealed reduction until one loose riveted seam gives way and the liquid jets out through that single aperture, leaving the vessel intact elsewhere.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1135,
+    "generator_model": "claude-agent",
+    "metaphor": "A phrase loops inside a repeated bracket and the one unresolved note finds the single open measure where the bar line is missing, slipping through to finally resolve in the clear.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1135,
+    "generator_model": "claude-agent",
+    "metaphor": "A tendril circles a closed trellis frame looking for the one untied wire gap, threads through that opening, and emerges on the far side toward the light.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1135,
+    "generator_model": "claude-agent",
+    "metaphor": "A vessel hemmed in by reef charts every section of the surrounding shoal until the sonar shows one clear-water notch, and the captain steers through that single safe channel to open sea.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1135,
+    "generator_model": "claude-agent",
+    "metaphor": "A trapped actor backstage tries every flat and wing of the set until she finds the one unblocked gap in the scenery, steps through it, and appears onstage exactly at that breach.",
+    "source_domain": "theater"
+  },
+  {
+    "task_id": 1153,
+    "generator_model": "claude-agent",
+    "metaphor": "A platoon advances in paired columns and when the halt order arrives only the units that have already passed the checkpoint are permitted to stand \u2014 the rest fall out of the formation.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1153,
+    "generator_model": "claude-agent",
+    "metaphor": "A cell lineage divides in paired generations until a senescence signal fires; only the daughter cells past the signal survive into the final tissue while the earlier generations are cleared.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1153,
+    "generator_model": "claude-agent",
+    "metaphor": "A tasting menu advances course by course in matched pairs until the sommelier sets down a blank glass as a palate-cleanse signal; only the flavors that followed the blank are carried into the final pairing.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1153,
+    "generator_model": "claude-agent",
+    "metaphor": "A theme and its countermelody advance in locked pairs through the development section until a fermata acts as a dividing marker; only the voices that enter after the fermata remain in the recapitulation.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1153,
+    "generator_model": "claude-agent",
+    "metaphor": "Companion plants are set out in paired rows, and when the gardener drives a divide-stake into the bed only the pairs beyond the stake are left to mature \u2014 those before it are thinned away.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1153,
+    "generator_model": "claude-agent",
+    "metaphor": "A fleet of paired vessels sails through a channel and when the lead ship rounds a marker buoy only the pairs that have cleared the buoy are logged as arrived; those still short of it turn back.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1154,
+    "generator_model": "claude-agent",
+    "metaphor": "A general traces the enemy's line of advance across the map and files a report showing only the shape and strength of the force that arrived at the terminus \u2014 everything about the march route is erased.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1154,
+    "generator_model": "claude-agent",
+    "metaphor": "A neurobiologist follows an axon through every branching detour in the tissue and records only the receptor cluster it finally innervates, discarding the entire path that led there.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1154,
+    "generator_model": "claude-agent",
+    "metaphor": "A sauce is ladled along a winding trail across the plate, and only the pool it finally collects in at the far end is plated for the guest \u2014 the trail itself is wiped away.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1154,
+    "generator_model": "claude-agent",
+    "metaphor": "A melodic line winds through every chromatic detour of the development section and the listener is left only with the cadence it lands on at the end \u2014 the journey is absorbed into that final chord.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1154,
+    "generator_model": "claude-agent",
+    "metaphor": "A captain plots a winding course through archipelago hazards and the voyage log records only the final anchorage \u2014 the shape of the harbor where the ship came to rest \u2014 not the tacks and bearings that got her there.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1156,
+    "generator_model": "claude-agent",
+    "metaphor": "A ceasefire line is drawn and when the dust settles every unit holds exactly the ground it occupied before the order \u2014 not one position gained or conceded.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1156,
+    "generator_model": "claude-agent",
+    "metaphor": "A cell enters a quiescent phase and when it exits it carries exactly the same organelles, same membrane, same cytoskeleton it had before \u2014 as if suspended in amber.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1156,
+    "generator_model": "claude-agent",
+    "metaphor": "The cook sets the pot aside to rest and when the lid comes off the contents are unchanged \u2014 not a spice redistributed, not a layer shifted from where it was first placed.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1156,
+    "generator_model": "claude-agent",
+    "metaphor": "A sustained whole note is held through the entire measure and the score at the bar's end looks identical to what it showed at the beginning \u2014 silence and pitch exactly preserved.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1156,
+    "generator_model": "claude-agent",
+    "metaphor": "The garden is left untouched through the dormant season and when the gate is opened in spring not a single stone, stake, or furrow has moved from where the gardener left it.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1156,
+    "generator_model": "claude-agent",
+    "metaphor": "A ship drops anchor and rides out the night at a fixed bearing; at dawn the chart shows the vessel sitting on the exact same position it marked when the anchor went down.",
+    "source_domain": "navigation"
+  },
+  {
+    "task_id": 1168,
+    "generator_model": "claude-agent",
+    "metaphor": "A flanking unit advances cell by cell across open ground toward the enemy position and stops the moment it reaches the square adjacent to the defender \u2014 converting that stop point to a contested marker.",
+    "source_domain": "warfare"
+  },
+  {
+    "task_id": 1168,
+    "generator_model": "claude-agent",
+    "metaphor": "A chemotactic cell migrates toward the nearest chemical gradient source, crossing empty space until it contacts the signaling body \u2014 at which point the source neutralizes the probe and marks the contact site.",
+    "source_domain": "biology"
+  },
+  {
+    "task_id": 1168,
+    "generator_model": "claude-agent",
+    "metaphor": "A drop of hot liquid rolls across the pan toward the nearest pooled sauce, and when they meet the drop is absorbed and the point of contact takes on the combined color of both.",
+    "source_domain": "cooking"
+  },
+  {
+    "task_id": 1168,
+    "generator_model": "claude-agent",
+    "metaphor": "A dissonant pitch slides step by step through the scale toward the nearest consonant pitch and when they are a semitone apart the consonant resolves it, leaving only a neutral rest in place of the dissonance.",
+    "source_domain": "music"
+  },
+  {
+    "task_id": 1168,
+    "generator_model": "claude-agent",
+    "metaphor": "A runner vine advances tendril by tendril toward the nearest fixed post and when it reaches the post it grips and the entry point becomes a permanent anchor, while the reaching tip disappears into the hold.",
+    "source_domain": "gardening"
+  },
+  {
+    "task_id": 1168,
+    "generator_model": "claude-agent",
+    "metaphor": "A vessel on a collision heading advances toward the nearest landmass buoy by buoy until the lookout signals contact \u2014 the ship stops one square short and the chart marks that spot as a hazard.",
+    "source_domain": "navigation"
+  }
+]
