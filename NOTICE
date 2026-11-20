@@ -1,0 +1,11 @@
+marc-from-larc
+Copyright 2026 Bert Baumgaertner
+
+The source code (Python code and configuration) is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The content (the derived datasets, figures and documents) is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0; see LICENSE-CONTENT.md).
+
+Not covered by these licenses:
+
+- data/marc-submissions/ holds puzzles submitted to MARC by other people. They belong to their authors and are not licensed here.
+- The derived datasets build on LARC (Acquaviva et al., CC BY 4.0) and ARC (Chollet, Apache License 2.0). Reuse must keep attribution to those sources.
